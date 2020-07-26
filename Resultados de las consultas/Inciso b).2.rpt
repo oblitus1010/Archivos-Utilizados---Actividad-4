@@ -1,0 +1,1035 @@
+﻿idcliente   numcta          saldo                  nombresucursal
+----------- --------------- ---------------------- --------------------------------------------------
+2           C-00002         107311,4               COZUMEL
+12          C-00012         66603,92               CARDENAS
+16          C-00016         100225,08              TONALA
+24          C-00024         58544,24               CANCUN
+31          C-00031         120461,96              CHETUMAL
+48          C-00048         110657,79              CHILPANCINGO
+54          C-00054         81676,28               CHETUMAL
+58          C-00058         51436,37               UXMAL
+59          C-00059         35180,37               COZUMEL
+67          C-00067         130867,03              NACAJUCA
+78          C-00078         42672                  CHUBURNA
+80          C-00080         12035,44               FRNCISCO DE MONTEJO
+81          C-00081         87148,32               CHETUMAL
+83          C-00083         1234,59                VILLAFLORES
+84          C-00084         118856,43              UXMAL
+86          C-00086         28860,24               CHUBURNA
+88          C-00088         32001,29               TONALA
+89          C-00089         102958,98              VILLAFLORES
+90          C-00090         15797,95               TONALA
+94          C-00094         12331,04               CANCUN
+99          C-00099         38232,68               COZUMEL
+100         C-00100         38593,79               BONAMPAK
+107         C-00107         137739,67              PROGRESO
+121         C-00121         131533,45              CANCUN
+131         C-00131         4276,06                MOTUL
+142         C-00142         121846,99              MERIDA
+145         C-00145         34033,22               HUATULCO
+168         C-00168         96331,8                TEHUANTEPEC
+171         C-00171         35196,3                NOCHIXTLAN
+173         C-00173         142253,14              HUIMANGUILLO
+189         C-00189         8030,21                CHILPANCINGO
+191         C-00191         15758,24               ITZAES
+194         C-00194         63353,09               MERIDA
+202         C-00202         7046,89                COZUMEL
+218         C-00218         144303,92              PINOTEPA
+231         C-00231         43504,21               CHUBURNA
+234         C-00234         103923                 ITZAES
+239         C-00239         10395,67               TEHUANTEPEC
+242         C-00242         130031,9               CANCUN
+245         C-00245         148313,77              VILLAHERMOSA
+246         C-00246         89117,38               CIUDAD ALTAMIRANO
+260         C-00260         40026,36               MERIDA
+262         C-00262         34454,66               PROGRESO
+264         C-00264         28089,49               TULUM
+272         C-00272         50099,37               CANCUN
+274         C-00274         15512,9                TICUL
+280         C-00280         25530,18               UXMAL
+287         C-00287         54039,74               CANCUN
+288         C-00288         63789,81               CARDENAS
+292         C-00292         12275,02               NOCHIXTLAN
+294         C-00294         142390,4               VILLAFLORES
+311         C-00311         9706,76                NOCHIXTLAN
+313         C-00313         90069,79               MOTUL
+323         C-00323         14904,77               VILLAHERMOSA
+328         C-00328         69001,2                MERIDA
+336         C-00336         126948,22              OAXACA
+339         C-00339         95090,31               TICUL
+364         C-00364         97461,29               VALLADOLID
+369         C-00369         144556,5               TIZIMIN
+370         C-00370         146254,23              TEHUANTEPEC
+377         C-00377         100699,88              ITZAES
+381         C-00381         122811,76              FRNCISCO DE MONTEJO
+386         C-00386         127271,44              HUATULCO
+389         C-00389         46952,3                NACAJUCA
+392         C-00392         93273,49               LA CEIBA
+394         C-00394         54791,82               MOTOZINTLA
+399         C-00399         93735,57               VALLADOLID
+408         C-00408         108810,45              MOTUL
+417         C-00417         17652,01               TULUM
+423         C-00423         51555,64               HUIMANGUILLO
+425         C-00425         145067,77              MOTOZINTLA
+430         C-00430         81973,43               TICUL
+434         C-00434         68958                  FRNCISCO DE MONTEJO
+445         C-00445         134220,02              MOTUL
+449         C-00449         75616,71               VILLAFLORES
+460         C-00459         2116,1                 HUATULCO
+465         C-00464         132217,98              NOCHIXTLAN
+466         C-00465         42444,64               ACAPULCO
+469         C-00468         65187,18               MOTOZINTLA
+473         C-00472         51365,69               MOTUL
+474         C-00473         131619,83              CHUBURNA
+475         C-00474         76370,03               LA CEIBA
+477         C-00476         121239,36              CANCUN
+482         C-00481         75761,8                ITZAES
+483         C-00482         126709,03              BONAMPAK
+489         C-00488         44587,24               HUIMANGUILLO
+491         C-00490         40399                  MACUSPANA
+492         C-00491         121466,37              CHETUMAL
+494         C-00493         31382,6                BONAMPAK
+495         C-00494         128520,97              HUATULCO
+497         C-00496         135734,47              CHETUMAL
+499         C-00498         39164,01               VILLAFLORES
+500         C-00499         68356,41               PLAYA DEL CARMEN
+508         C-00507         111137,56              TULUM
+511         C-00510         109823,91              MACUSPANA
+515         C-00514         132520,92              ACAPULCO
+524         C-00523         15783,25               CIUDAD ALTAMIRANO
+526         C-00525         95783,68               CHILPANCINGO
+535         C-00534         117224,94              VILLAFLORES
+537         C-00536         52879,8                TONALA
+539         C-00538         109221,54              ITZAES
+540         C-00539         40976,53               MOTOZINTLA
+547         C-00546         92780,1                BONAMPAK
+556         C-00555         140250,94              ACAPULCO
+558         C-00557         118255,15              TONALA
+561         C-00560         100441,66              MOTOZINTLA
+565         C-00564         145547,9               UXMAL
+574         C-00573         15236,21               ACAPULCO
+577         C-00576         142770,65              ESCARCEGA
+578         C-00577         78529,18               CARDENAS
+595         C-00594         44198,24               ACAPULCO
+601         C-00600         25363,86               PINOTEPA
+611         C-00610         69568,33               MACUSPANA
+619         C-00618         126113,1               CARDENAS
+630         C-00629         146314,47              PUERTO ESCONDIDO
+631         C-00630         98191,92               TICUL
+638         C-00637         8742,72                CAMPECHE
+640         C-00639         57215,12               OAXACA
+641         C-00640         57306,4                NOCHIXTLAN
+643         C-00642         118973,44              ITZAES
+646         C-00645         20704,46               VILLAFLORES
+651         C-00650         145159,42              VALLADOLID
+654         C-00653         10420,84               NACAJUCA
+657         C-00656         29803,96               MOTUL
+659         C-00658         64733,09               MACUSPANA
+665         C-00664         95428,58               CANCUN
+675         C-00674         47952,94               LA CEIBA
+686         C-00685         118867,87              PUERTO ESCONDIDO
+687         C-00686         12864,2                CAMPECHE
+692         C-00691         148872,02              CAMPECHE
+694         C-00693         57794,14               CANCUN
+695         C-00694         114883,43              TIZIMIN
+697         C-00696         81900,68               NACAJUCA
+702         C-00701         78627,86               PLAYA DEL CARMEN
+704         C-00703         114405,87              PUERTO ESCONDIDO
+709         C-00708         122544,24              FRNCISCO DE MONTEJO
+714         C-00713         54823,96               TEHUANTEPEC
+720         C-00719         140666,74              UXMAL
+725         C-00724         101402,54              ITZAES
+732         C-00731         56328,23               COZUMEL
+735         C-00734         144260,99              CARDENAS
+746         C-00745         136705,34              TICUL
+749         C-00748         147314,81              PLAYA DEL CARMEN
+751         C-00750         53871,73               PROGRESO
+759         C-00758         118115,22              VILLAFLORES
+760         C-00759         7593,52                PLAYA DEL CARMEN
+761         C-00760         61808,75               VILLAFLORES
+770         C-00769         29977,65               CIUDAD ALTAMIRANO
+782         C-00781         78672,9                CARDENAS
+789         C-00788         141841,31              PUERTO ESCONDIDO
+794         C-00793         33500,97               VILLAHERMOSA
+811         C-00810         93250,49               PINOTEPA
+816         C-00815         69939,05               ITZAES
+826         C-00825         144585,82              MOTUL
+828         C-00827         78613,08               PUERTO ESCONDIDO
+834         C-00833         128658,15              ACAPULCO
+835         C-00834         148331,33              HUATULCO
+838         C-00837         114344,11              BONAMPAK
+840         C-00839         53365,13               TONALA
+841         C-00840         130182,74              NACAJUCA
+844         C-00843         32077,07               PROGRESO
+846         C-00845         145321,71              CHUBURNA
+847         C-00846         137946,71              VALLADOLID
+849         C-00848         78088,39               CHILPANCINGO
+854         C-00853         97434,99               MOTUL
+862         C-00861         90641,7                VILLAHERMOSA
+869         C-00868         91477,47               CHILPANCINGO
+873         C-00872         72016,66               TICUL
+878         C-00877         88815,16               OAXACA
+892         C-00891         129814,09              CAMPECHE
+893         C-00892         93715,95               TONALA
+894         C-00893         18098,78               CHUBURNA
+895         C-00894         117281,22              TEHUANTEPEC
+905         C-00904         141288,07              CAMPECHE
+906         C-00905         102749,34              MERIDA
+922         C-00921         69066,7                ITZAES
+925         C-00924         90179,59               UXMAL
+932         C-00931         124876,63              COZUMEL
+941         C-00940         46203,37               TICUL
+942         C-00941         110679,4               CHILPANCINGO
+946         C-00945         63647,75               CANCUN
+947         C-00946         64492,32               CHILPANCINGO
+950         C-00949         143213,91              LA CEIBA
+955         C-00954         99762,44               ESCARCEGA
+963         C-00962         56112,37               CARDENAS
+971         C-00970         45636,48               HUIMANGUILLO
+985         C-00984         62809,63               TEHUANTEPEC
+998         C-00997         73771                  COZUMEL
+1004        C-01003         142808,22              VALLADOLID
+1008        C-01007         16713,57               MACUSPANA
+1018        C-01017         18275,95               VILLAHERMOSA
+1026        C-01025         100675,9               UXMAL
+1034        C-01033         47660,06               NOCHIXTLAN
+1035        C-01034         114603,56              CHETUMAL
+1037        C-01036         14337,73               UXMAL
+1048        C-01047         143929,5               PUERTO ESCONDIDO
+1056        C-01055         71257,87               TONALA
+1066        C-01065         70744,41               LA CEIBA
+1073        C-01072         1306,45                CANCUN
+1081        C-01080         69865,98               CHILPANCINGO
+1082        C-01081         54908,73               CHETUMAL
+1094        C-01093         2405,24                LA CEIBA
+1099        C-01098         88259,11               LA CEIBA
+1127        C-01126         101938,76              HUIMANGUILLO
+1128        C-01127         134990,31              TONALA
+1137        C-01136         30281,51               VALLADOLID
+1139        C-01138         150103,5               TICUL
+1151        C-01150         4561,21                NOCHIXTLAN
+1152        C-01151         13812,87               PLAYA DEL CARMEN
+1153        C-01152         92684,89               HUATULCO
+1159        C-01158         61443,14               TIZIMIN
+1168        C-01167         77139,14               CARDENAS
+1172        C-01171         65225,64               CHUBURNA
+1187        C-01186         140249,51              TONALA
+1193        C-01192         57113,88               PROGRESO
+1195        C-01194         140901,1               UXMAL
+1197        C-01196         93252,06               MACUSPANA
+1198        C-01197         113042,36              CARDENAS
+1201        C-01200         105340,87              NOCHIXTLAN
+1204        C-01203         42449,83               VILLAFLORES
+1208        C-01207         26492,75               MERIDA
+1209        C-01208         90821,36               BONAMPAK
+1212        C-01211         150290,39              FRNCISCO DE MONTEJO
+1214        C-01213         56118,61               MOTUL
+1217        C-01216         104202,49              VALLADOLID
+1228        C-01227         85237,31               TICUL
+1229        C-01228         14442,88               UXMAL
+1233        C-01232         136768,65              COZUMEL
+1235        C-01234         126133,21              VILLAFLORES
+1237        C-01236         126774,42              CIUDAD ALTAMIRANO
+1246        C-01245         31817,73               CHETUMAL
+1250        C-01249         88429,74               VILLAFLORES
+1252        C-01251         80021,33               MOTOZINTLA
+1268        C-01267         95636,47               TIZIMIN
+1278        C-01277         54523,41               COZUMEL
+1283        C-01282         16239,57               TULUM
+1284        C-01283         33664,22               LA CEIBA
+1287        C-01286         132802,78              FRNCISCO DE MONTEJO
+1291        C-01290         135882,44              PUERTO ESCONDIDO
+1295        C-01294         112316,98              VALLADOLID
+1297        C-01296         136430,46              PINOTEPA
+1300        C-01299         72483,95               OAXACA
+1302        C-01301         47569,35               CIUDAD ALTAMIRANO
+1309        C-01308         85099,51               CIUDAD ALTAMIRANO
+1314        C-01313         95626,84               CHUBURNA
+1315        C-01314         34557,09               MOTUL
+1317        C-01316         143218,77              NACAJUCA
+1339        C-01338         94370,31               PROGRESO
+1361        C-01360         76654,39               ITZAES
+1362        C-01361         114364,46              TEHUANTEPEC
+1376        C-01375         21993,4                MERIDA
+1378        C-01377         11442,27               ACAPULCO
+1389        C-01388         97864,67               TONALA
+1398        C-01397         147550,51              MOTUL
+1403        C-01402         122158,2               CANCUN
+1409        C-01408         62019,13               LA CEIBA
+1410        C-01409         13036,47               TULUM
+1415        C-01414         43960,58               MOTUL
+1423        C-01422         127858,31              CARDENAS
+1438        C-01437         149013,94              PROGRESO
+1440        C-01439         3686,02                CAMPECHE
+1444        C-01443         27864,9                MERIDA
+1468        C-01467         52575,79               CARDENAS
+1471        C-01470         79718,26               MACUSPANA
+1478        C-01477         112196,85              ITZAES
+1480        C-01479         79239,49               UXMAL
+1482        C-01481         86108,13               VILLAFLORES
+1485        C-01484         26159,56               COZUMEL
+1489        C-01488         141750,04              ESCARCEGA
+1491        C-01490         61976,64               TICUL
+1492        C-01491         99028,6                TIZIMIN
+1495        C-01494         111479,73              TONALA
+1498        C-01497         12356,67               NACAJUCA
+1507        C-01506         139798,59              PUERTO ESCONDIDO
+1514        C-01513         142033,76              VILLAFLORES
+1520        C-01519         11068,22               CANCUN
+1521        C-01520         133275,89              OAXACA
+1524        C-01523         111791,22              LA CEIBA
+1526        C-01525         97497,64               CHUBURNA
+1528        C-01527         115384,79              CHILPANCINGO
+1543        C-01542         44874,98               VILLAHERMOSA
+1544        C-01543         149844,45              CAMPECHE
+1556        C-01555         18390,53               HUATULCO
+1560        C-01559         55727,65               HUATULCO
+1574        C-01573         56677,72               VILLAHERMOSA
+1575        C-01574         110844,75              TICUL
+1578        C-01577         82453,99               LA CEIBA
+1580        C-01579         92656,35               PLAYA DEL CARMEN
+1586        C-01585         44499,04               TIZIMIN
+1590        C-01589         111778,54              NACAJUCA
+1596        C-01595         142620,9               HUATULCO
+1600        C-01599         102954,33              CHUBURNA
+1601        C-01600         33716,34               PROGRESO
+1611        C-01610         146665,46              TICUL
+1628        C-01627         40145,96               VALLADOLID
+1641        C-01640         55580,3                CHUBURNA
+1658        C-01657         129000,54              NOCHIXTLAN
+1665        C-01664         17292,96               COZUMEL
+1666        C-01665         30345,2                MACUSPANA
+1668        C-01667         60155,15               NACAJUCA
+1681        C-01680         115670,39              PUERTO ESCONDIDO
+1682        C-01681         16667,38               NOCHIXTLAN
+1686        C-01685         119969,02              CHILPANCINGO
+1689        C-01688         89858,5                NOCHIXTLAN
+1693        C-01692         45576,82               BONAMPAK
+1697        C-01696         106015,69              MOTOZINTLA
+1707        C-01706         112140,94              BONAMPAK
+1716        C-01715         136103,21              CIUDAD ALTAMIRANO
+1718        C-01717         40157,81               PINOTEPA
+1735        C-01734         12551,03               HUIMANGUILLO
+1746        C-01745         53047,78               HUATULCO
+1757        C-01756         38698,23               HUIMANGUILLO
+1758        C-01757         8153,99                TULUM
+1759        C-01758         10183,64               VILLAHERMOSA
+1760        C-01759         5355,09                TEHUANTEPEC
+1761        C-01760         40541,46               ITZAES
+1772        C-01771         146871,02              TEHUANTEPEC
+1774        C-01773         1773,5                 NOCHIXTLAN
+1786        C-01785         103438,9               VILLAHERMOSA
+1787        C-01786         150317,79              BONAMPAK
+1793        C-01792         84444,62               PROGRESO
+1799        C-01798         108775,97              HUATULCO
+1805        C-01804         20157,03               TONALA
+1806        C-01805         69123,2                NACAJUCA
+1825        C-01824         79565,3                TICUL
+1828        C-01827         84419,21               MERIDA
+1830        C-01829         42672,45               NOCHIXTLAN
+1835        C-01834         35704,65               HUIMANGUILLO
+1836        C-01835         15065,54               PROGRESO
+1838        C-01837         3105,73                TULUM
+1840        C-01839         138393,14              MOTOZINTLA
+1846        C-01845         136944,97              BONAMPAK
+1850        C-01849         106918,74              TIZIMIN
+1856        C-01855         83184,15               VILLAFLORES
+1857        C-01856         9070,68                NACAJUCA
+1859        C-01858         136113,62              FRNCISCO DE MONTEJO
+1864        C-01863         146856,93              UXMAL
+1865        C-01864         97914,35               HUIMANGUILLO
+1874        C-01873         62044,49               HUIMANGUILLO
+1875        C-01874         1581,23                VILLAFLORES
+1877        C-01876         54134,39               PROGRESO
+1883        C-01882         90402,46               VILLAHERMOSA
+1888        C-01887         40991,25               TIZIMIN
+1898        C-01897         3013,57                FRNCISCO DE MONTEJO
+1902        C-01901         126086,37              FRNCISCO DE MONTEJO
+1904        C-01903         34941,19               UXMAL
+1908        C-01907         14647,55               PUERTO ESCONDIDO
+1909        C-01908         3061,96                MOTOZINTLA
+1911        C-01910         126074,88              ITZAES
+1913        C-01912         32670,73               CANCUN
+1914        C-01913         28777,06               TONALA
+1915        C-01914         102575,21              PROGRESO
+1916        C-01915         86678,02               COZUMEL
+1919        C-01918         37119,47               BONAMPAK
+1920        C-01919         121196,7               HUATULCO
+1921        C-01920         19013,58               PROGRESO
+1930        C-01929         59731,02               MOTOZINTLA
+1931        C-01930         100697,06              NOCHIXTLAN
+1932        C-01931         112327,83              HUIMANGUILLO
+1936        C-01935         75500,65               ITZAES
+1938        C-01937         13484,94               ESCARCEGA
+1944        C-01943         115913,92              TICUL
+1948        C-01947         38141,97               CHUBURNA
+1950        C-01949         43827,9                MERIDA
+1952        C-01951         141563,68              MACUSPANA
+1957        C-01956         93841,53               OAXACA
+1959        C-01958         49556,38               CANCUN
+1961        C-01960         65679,19               VILLAFLORES
+1963        C-01962         46555,08               NACAJUCA
+1966        C-01965         1304,86                TICUL
+1967        C-01966         4274,47                PINOTEPA
+1974        C-01973         122978,56              UXMAL
+1978        C-01977         131784,07              PUERTO ESCONDIDO
+1985        C-01984         55672,84               FRNCISCO DE MONTEJO
+1990        C-01989         27138,72               MOTUL
+1991        C-01990         7878,75                PLAYA DEL CARMEN
+1998        C-01997         32827,28               MACUSPANA
+2012        C-02011         30611,45               CARDENAS
+2022        C-02021         127230,72              MOTOZINTLA
+2028        C-02027         61121,07               CHILPANCINGO
+2029        C-02028         64193,69               NOCHIXTLAN
+2049        C-02048         68797,6                TULUM
+2051        C-02050         105497,59              VALLADOLID
+2057        C-02056         114308,55              TULUM
+2063        C-02062         116749,12              PLAYA DEL CARMEN
+2067        C-02066         98256,11               ESCARCEGA
+2070        C-02069         54878,55               CHILPANCINGO
+2072        C-02071         42133,48               MERIDA
+2073        C-02072         119892,88              ACAPULCO
+2086        C-02085         22963,14               VILLAHERMOSA
+2094        C-02093         68654,9                LA CEIBA
+2099        C-02098         13959,78               MOTUL
+2100        C-02099         102432,98              ACAPULCO
+2106        C-02105         110791,88              BONAMPAK
+2110        C-02109         17561,34               OAXACA
+2115        C-02114         88064,14               ITZAES
+2119        C-02118         89478,16               MOTOZINTLA
+2125        C-02124         133988,23              ESCARCEGA
+2127        C-02126         68100,21               PROGRESO
+2131        C-02130         61182,19               TICUL
+2138        C-02137         102356,98              CAMPECHE
+2141        C-02140         27045,31               CIUDAD ALTAMIRANO
+2144        C-02143         115596,55              TULUM
+2150        C-02149         72862,33               NOCHIXTLAN
+2151        C-02150         100644,88              FRNCISCO DE MONTEJO
+2182        C-02181         81792,1                MERIDA
+2189        C-02188         78816,79               CHETUMAL
+2194        C-02193         142499,05              TIZIMIN
+2196        C-02195         132203,89              CHILPANCINGO
+2198        C-02197         141150,95              ESCARCEGA
+2205        C-02204         115145,3               BONAMPAK
+2210        C-02209         139893,38              FRNCISCO DE MONTEJO
+2211        C-02210         45289,48               MOTUL
+2217        C-02216         115437,71              MACUSPANA
+2228        C-02227         54905,39               ACAPULCO
+2229        C-02228         26889,73               OAXACA
+2233        C-02232         79030,48               NOCHIXTLAN
+2241        C-02240         39700,36               CAMPECHE
+2242        C-02241         6841,42                ACAPULCO
+2249        C-02248         57884,77               PROGRESO
+2253        C-02252         84496,75               ACAPULCO
+2256        C-02255         103872,78              NOCHIXTLAN
+2259        C-02258         63468,67               OAXACA
+2260        C-02259         1027,71                CIUDAD ALTAMIRANO
+2267        C-02266         117219,91              VILLAFLORES
+2273        C-02272         81238,18               VILLAHERMOSA
+2274        C-02273         80416,35               CHETUMAL
+2280        C-02279         111937,43              PINOTEPA
+2281        C-02280         149827,15              ITZAES
+2282        C-02281         58689,64               NOCHIXTLAN
+2287        C-02286         26902,15               PUERTO ESCONDIDO
+2288        C-02287         107528,64              CAMPECHE
+2290        C-02289         64870,3                PINOTEPA
+2291        C-02290         57469,94               PINOTEPA
+2292        C-02291         106567,87              TICUL
+2301        C-02300         78748,53               MACUSPANA
+2310        C-02309         114607,9               CARDENAS
+2311        C-02310         65733,74               COZUMEL
+2317        C-02316         21190,44               TIZIMIN
+2328        C-02327         17927,02               CARDENAS
+2329        C-02328         149927,35              CAMPECHE
+2342        C-02341         96289,42               VILLAFLORES
+2357        C-02356         73795,36               TEHUANTEPEC
+2363        C-02362         132918,78              TEHUANTEPEC
+2373        C-02372         93039,68               CAMPECHE
+2380        C-02379         71624,96               ESCARCEGA
+2389        C-02388         48470,01               MOTUL
+2390        C-02389         62498,9                FRNCISCO DE MONTEJO
+2392        C-02391         6970,52                CARDENAS
+2394        C-02393         125781,18              ESCARCEGA
+2399        C-02398         28476,59               PROGRESO
+2405        C-02404         73094,5                VALLADOLID
+2408        C-02407         134940,7               PROGRESO
+2418        C-02417         35198,09               CIUDAD ALTAMIRANO
+2420        C-02419         105790,04              ITZAES
+2428        C-02427         48750,13               CANCUN
+2429        C-02428         19210,58               PINOTEPA
+2434        C-02433         39552,51               CARDENAS
+2436        C-02435         1841,25                TEHUANTEPEC
+2439        C-02438         15655,01               CAMPECHE
+2451        C-02450         108318,2               MACUSPANA
+2453        C-02452         45938,35               UXMAL
+2469        C-02468         5807,51                PINOTEPA
+2476        C-02475         139601,38              FRNCISCO DE MONTEJO
+2478        C-02477         1906,19                ESCARCEGA
+2480        C-02479         105396,77              TIZIMIN
+2484        C-02483         136260,17              PUERTO ESCONDIDO
+2485        C-02484         8811,39                CHILPANCINGO
+2491        C-02490         69732,37               VILLAFLORES
+2501        C-02500         1605,96                UXMAL
+2506        C-02505         81993,72               PLAYA DEL CARMEN
+2514        C-02513         65749,39               CANCUN
+2523        C-02522         75311,18               BONAMPAK
+2530        C-02529         59573,77               TIZIMIN
+2532        C-02531         98656,49               CANCUN
+2545        C-02544         21198,11               CANCUN
+2546        C-02545         50893,16               COZUMEL
+2547        C-02546         122455,86              PROGRESO
+2548        C-02547         111961,4               ACAPULCO
+2555        C-02554         122658,61              FRNCISCO DE MONTEJO
+2565        C-02564         51058,31               PLAYA DEL CARMEN
+2571        C-02570         39068,83               OAXACA
+2572        C-02571         104533,08              VALLADOLID
+2574        C-02573         82571                  TONALA
+2575        C-02574         89608,22               NACAJUCA
+2576        C-02575         82106,14               MOTUL
+2584        C-02583         32907,76               VALLADOLID
+2593        C-02592         17200,29               TICUL
+2594        C-02593         44007,72               VILLAHERMOSA
+2596        C-02595         111026,57              TEHUANTEPEC
+2607        C-02606         7088,25                CHETUMAL
+2612        C-02611         28426,08               CHETUMAL
+2622        C-02621         115630,87              VILLAFLORES
+2626        C-02625         17312,46               VILLAHERMOSA
+2628        C-02627         76635,32               CHETUMAL
+2639        C-02638         21387,21               TEHUANTEPEC
+2644        C-02643         148455,47              NACAJUCA
+2651        C-02650         71027,41               MOTUL
+2658        C-02657         56502,56               TIZIMIN
+2666        C-02665         36668,55               TONALA
+2677        C-02676         94016,59               MERIDA
+2681        C-02680         28410,83               PLAYA DEL CARMEN
+2687        C-02686         12910,35               COZUMEL
+2692        C-02691         78366,59               TEHUANTEPEC
+2694        C-02693         10529,31               ESCARCEGA
+2697        C-02696         72084,24               CANCUN
+2708        C-02707         43521,67               NACAJUCA
+2709        C-02708         125362,34              NACAJUCA
+2713        C-02712         84115,94               TIZIMIN
+2718        C-02717         115633,52              COZUMEL
+2720        C-02719         42114,68               CANCUN
+2723        C-02722         43335,61               HUATULCO
+2735        C-02734         77648,16               VILLAFLORES
+2737        C-02736         133913,24              ESCARCEGA
+2740        C-02739         23929,62               OAXACA
+2742        C-02741         38126,39               COZUMEL
+2743        C-02742         107868,7               ACAPULCO
+2745        C-02744         107684,16              PUERTO ESCONDIDO
+2748        C-02747         86516,37               TONALA
+2758        C-02757         140925,19              ITZAES
+2762        C-02761         104595,05              HUATULCO
+2766        C-02765         145069,03              NOCHIXTLAN
+2770        C-02769         6524,5                 LA CEIBA
+2775        C-02774         52539,71               TEHUANTEPEC
+2776        C-02775         144027,71              LA CEIBA
+2777        C-02776         107393,3               TICUL
+2793        C-02792         21480,05               CANCUN
+2803        C-02802         58649,28               PINOTEPA
+2807        C-02806         55574,94               BONAMPAK
+2809        C-02808         90871,15               PLAYA DEL CARMEN
+2818        C-02817         14855,06               CARDENAS
+2830        C-02829         134554,95              CANCUN
+2836        C-02835         30707,64               NOCHIXTLAN
+2858        C-02857         2420,35                MOTOZINTLA
+2862        C-02861         32117,51               MOTOZINTLA
+2863        C-02862         118595,14              CARDENAS
+2875        C-02874         83228,47               CANCUN
+2880        C-02879         149145,26              CANCUN
+2901        C-02900         29212,13               TONALA
+2909        C-02908         39336,61               MOTUL
+2912        C-02911         21041,59               CHETUMAL
+2918        C-02917         102627,5               NOCHIXTLAN
+2925        C-02924         91072,46               FRNCISCO DE MONTEJO
+2941        C-02940         106299,02              PLAYA DEL CARMEN
+2944        C-02943         126188,9               FRNCISCO DE MONTEJO
+2969        C-02968         126887,06              TEHUANTEPEC
+2970        C-02969         132118,35              BONAMPAK
+2975        C-02974         80811,37               MOTOZINTLA
+2982        C-02981         123774,75              OAXACA
+2995        C-02994         130775,39              FRNCISCO DE MONTEJO
+2997        C-02996         84665,31               NACAJUCA
+3017        C-03016         79846,89               MACUSPANA
+3025        C-03024         145082,3               TONALA
+3039        C-03038         88618,07               HUIMANGUILLO
+3040        C-03039         80996,71               CHETUMAL
+3042        C-03041         148919,83              VILLAHERMOSA
+3043        C-03042         126884,55              BONAMPAK
+3044        C-03043         46750,42               FRNCISCO DE MONTEJO
+3050        C-03049         23150,64               CIUDAD ALTAMIRANO
+3054        C-03053         32275,24               OAXACA
+3060        C-03059         2255,35                VILLAFLORES
+3067        C-03066         91414,98               TULUM
+3068        C-03067         75431,05               OAXACA
+3069        C-03068         81011,68               COZUMEL
+3073        C-03072         136482,51              CAMPECHE
+3078        C-03077         90954,84               PINOTEPA
+3082        C-03081         12161,93               TULUM
+3088        C-03087         87823,61               HUATULCO
+3089        C-03088         150867,07              MOTOZINTLA
+3091        C-03090         72267,71               CARDENAS
+3095        C-03094         124193,1               ITZAES
+3100        C-03099         143191,24              VALLADOLID
+3102        C-03101         109153,43              LA CEIBA
+3103        C-03102         37886                  ITZAES
+3107        C-03106         114060,5               MOTUL
+3115        C-03114         50772,3                CHILPANCINGO
+3116        C-03115         93572,49               NOCHIXTLAN
+3134        C-03133         75750,97               HUIMANGUILLO
+3144        C-03143         35967,62               MOTOZINTLA
+3146        C-03145         40881,94               ESCARCEGA
+3155        C-03154         134589,61              CHETUMAL
+3157        C-03156         30109,1                NOCHIXTLAN
+3158        C-03157         89434,73               COZUMEL
+3164        C-03163         38619,51               TONALA
+3166        C-03165         63761,98               HUATULCO
+3167        C-03166         28982,28               CIUDAD ALTAMIRANO
+3171        C-03170         16067,02               ESCARCEGA
+3172        C-03171         121296,51              ESCARCEGA
+3183        C-03182         91673,25               BONAMPAK
+3184        C-03183         35422,74               MACUSPANA
+3196        C-03195         129231,66              TICUL
+3205        C-03204         25567,08               PINOTEPA
+3206        C-03205         97482,17               ITZAES
+3207        C-03206         146317,76              ESCARCEGA
+3209        C-03208         98059,15               NOCHIXTLAN
+3211        C-03210         121557,07              CHUBURNA
+3214        C-03213         87813,84               TEHUANTEPEC
+3216        C-03215         80378,97               NOCHIXTLAN
+3226        C-03225         18576,99               PROGRESO
+3236        C-03235         14242,67               UXMAL
+3237        C-03236         57506,44               TONALA
+3238        C-03237         22956,37               OAXACA
+3247        C-03246         15979,33               NOCHIXTLAN
+3253        C-03252         42971,36               VALLADOLID
+3260        C-03259         20978,18               TULUM
+3265        C-03264         140356,26              NACAJUCA
+3271        C-03270         149298,84              TONALA
+3274        C-03273         42807,57               FRNCISCO DE MONTEJO
+3280        C-03279         36351,43               VILLAFLORES
+3285        C-03284         67388,02               CHILPANCINGO
+3286        C-03285         57030,47               MERIDA
+3287        C-03286         40392,71               NOCHIXTLAN
+3289        C-03288         99357,61               TONALA
+3294        C-03293         134115,22              TULUM
+3296        C-03295         27390,96               TEHUANTEPEC
+3297        C-03296         128896,68              NACAJUCA
+3298        C-03297         127290,85              BONAMPAK
+3308        C-03307         23642,4                ESCARCEGA
+3312        C-03311         98409,09               CHUBURNA
+3313        C-03312         37307,58               CARDENAS
+3315        C-03314         50359,29               NOCHIXTLAN
+3316        C-03315         74674,09               LA CEIBA
+3327        C-03326         18340,13               CIUDAD ALTAMIRANO
+3330        C-03329         26860,53               BONAMPAK
+3331        C-03330         66569,28               CAMPECHE
+3336        C-03335         57720,57               PINOTEPA
+3337        C-03336         125148,01              VILLAFLORES
+3348        C-03347         60271,35               NACAJUCA
+3355        C-03354         125775,9               BONAMPAK
+3357        C-03356         71284,11               FRNCISCO DE MONTEJO
+3367        C-03366         82702,95               LA CEIBA
+3370        C-03369         112208,16              MERIDA
+3372        C-03371         89427,05               PINOTEPA
+3376        C-03375         80265,86               NOCHIXTLAN
+3385        C-03384         13832,99               TEHUANTEPEC
+3388        C-03387         61526,44               UXMAL
+3395        C-03394         147542,57              UXMAL
+3406        C-03405         19097,87               ACAPULCO
+3418        C-03417         50285,77               UXMAL
+3420        C-03419         104654,03              FRNCISCO DE MONTEJO
+3421        C-03420         148480,14              PLAYA DEL CARMEN
+3426        C-03425         54366,53               CHUBURNA
+3428        C-03427         136185,54              UXMAL
+3431        C-03430         94270,1                BONAMPAK
+3432        C-03431         146443,96              MOTOZINTLA
+3435        C-03434         120352,63              UXMAL
+3443        C-03442         43748,77               TONALA
+3460        C-03459         28773,2                CIUDAD ALTAMIRANO
+3463        C-03462         97982,09               PLAYA DEL CARMEN
+3472        C-03471         17304,97               PINOTEPA
+3475        C-03474         143814,73              PLAYA DEL CARMEN
+3477        C-03476         27455,78               CHUBURNA
+3482        C-03481         10700,49               PINOTEPA
+3494        C-03493         136064,39              BONAMPAK
+3498        C-03497         41329,09               COZUMEL
+3506        C-03505         23546,03               COZUMEL
+3507        C-03506         50389,43               NACAJUCA
+3521        C-03520         124817,7               CARDENAS
+3531        C-03530         150521,85              PUERTO ESCONDIDO
+3540        C-03539         90119,96               VILLAFLORES
+3545        C-03544         28955,87               VILLAFLORES
+3558        C-03557         77264,46               CHILPANCINGO
+3566        C-03565         145328,94              CARDENAS
+3568        C-03567         22153,02               TEHUANTEPEC
+3572        C-03571         69452,87               HUATULCO
+3576        C-03575         6458,02                CHUBURNA
+3587        C-03586         107675,16              CIUDAD ALTAMIRANO
+3602        C-03601         89174,72               VILLAFLORES
+3606        C-03605         44305,48               PUERTO ESCONDIDO
+3618        C-03617         123059,64              MACUSPANA
+3621        C-03620         30306,5                HUATULCO
+3628        C-03627         105952,98              TIZIMIN
+3665        C-03664         66750,24               TONALA
+3666        C-03665         140118,83              ITZAES
+3667        C-03666         126622,86              PLAYA DEL CARMEN
+3692        C-03691         119824,83              CIUDAD ALTAMIRANO
+3698        C-03697         103505,99              VILLAHERMOSA
+3700        C-03699         17515,3                MOTOZINTLA
+3703        C-03702         61692,74               HUATULCO
+3704        C-03703         84644,52               OAXACA
+3705        C-03704         104161,92              VALLADOLID
+3716        C-03715         27028,61               CIUDAD ALTAMIRANO
+3720        C-03719         98661,18               TONALA
+3726        C-03725         37144,48               ACAPULCO
+3727        C-03726         61351,03               OAXACA
+3729        C-03728         77472,66               LA CEIBA
+3733        C-03732         3592,06                ITZAES
+3736        C-03735         56589,71               MOTUL
+3739        C-03738         64290,63               MOTUL
+3743        C-03742         104443,2               UXMAL
+3749        C-03748         83475,66               TIZIMIN
+3756        C-03755         66233,26               NACAJUCA
+3757        C-03756         91562,94               BONAMPAK
+3759        C-03758         46592,3                HUIMANGUILLO
+3762        C-03761         109629,48              HUIMANGUILLO
+3763        C-03762         31928,89               CHUBURNA
+3768        C-03767         117315,55              TEHUANTEPEC
+3770        C-03769         51012,45               FRNCISCO DE MONTEJO
+3773        C-03772         137036,42              ESCARCEGA
+3775        C-03774         87765,04               ITZAES
+3780        C-03779         114212,09              ACAPULCO
+3787        C-03786         105830,85              VILLAHERMOSA
+3792        C-03791         80850,36               NACAJUCA
+3804        C-03803         2913,84                PUERTO ESCONDIDO
+3806        C-03805         93559,75               MOTUL
+3813        C-03812         80450,12               ITZAES
+3824        C-03823         119527,91              CHUBURNA
+3827        C-03826         69001,33               MACUSPANA
+3830        C-03829         129552,58              MOTOZINTLA
+3832        C-03831         33754,62               CHUBURNA
+3836        C-03835         147113,99              TICUL
+3837        C-03836         127253,72              ESCARCEGA
+3838        C-03837         40463,75               NACAJUCA
+3842        C-03841         100639,42              TICUL
+3846        C-03845         113303,17              OAXACA
+3847        C-03846         45903,18               CARDENAS
+3850        C-03849         22852,06               FRNCISCO DE MONTEJO
+3852        C-03851         5813,78                BONAMPAK
+3853        C-03852         7450,62                TULUM
+3857        C-03856         76678,84               VILLAFLORES
+3862        C-03861         2090,72                COZUMEL
+3863        C-03862         124847,88              COZUMEL
+3864        C-03863         32072,7                PINOTEPA
+3866        C-03865         53490,99               TICUL
+3868        C-03867         76756,27               MOTUL
+3880        C-03879         51084,44               MOTUL
+3881        C-03880         98476,23               NOCHIXTLAN
+3892        C-03891         129155,84              BONAMPAK
+3899        C-03898         74800,57               CIUDAD ALTAMIRANO
+3900        C-03899         101973,27              MOTUL
+3902        C-03901         93617,79               ESCARCEGA
+3904        C-03903         126987,76              NACAJUCA
+3915        C-03914         23290,35               CHILPANCINGO
+3919        C-03918         135165,01              TEHUANTEPEC
+3929        C-03928         34207,13               UXMAL
+3932        C-03931         27608,93               COZUMEL
+3934        C-03933         35783,62               CIUDAD ALTAMIRANO
+3936        C-03935         118069,76              MOTUL
+3943        C-03942         43681,46               TULUM
+3958        C-03957         54504,24               NACAJUCA
+3961        C-03960         131424,07              CHILPANCINGO
+3970        C-03969         149563,92              PINOTEPA
+3977        C-03976         6766,7                 NACAJUCA
+3980        C-03979         67644,86               PUERTO ESCONDIDO
+3985        C-03984         69235,52               NOCHIXTLAN
+3987        C-03986         122893,82              BONAMPAK
+3988        C-03987         112164,21              VILLAFLORES
+3994        C-03993         81119,31               HUIMANGUILLO
+4000        C-03999         102456,16              ACAPULCO
+4006        C-04005         11518,1                PUERTO ESCONDIDO
+4011        C-04010         13864,77               CHUBURNA
+4012        C-04011         57679,91               LA CEIBA
+4014        C-04013         66368,5                FRNCISCO DE MONTEJO
+4020        C-04019         91692,31               COZUMEL
+4036        C-04035         74341,9                HUIMANGUILLO
+4041        C-04040         90075,81               CAMPECHE
+4050        C-04049         44343,99               VALLADOLID
+4053        C-04052         13088,97               VILLAHERMOSA
+4054        C-04053         32277,89               TIZIMIN
+4077        C-04076         10840,08               COZUMEL
+4080        C-04079         47769,47               PINOTEPA
+4086        C-04085         32948,51               VALLADOLID
+4087        C-04086         70891,71               CARDENAS
+4091        C-04090         129191,37              HUATULCO
+4096        C-04095         26786,84               CHUBURNA
+4100        C-04099         33178,63               VILLAFLORES
+4102        C-04101         124051,73              UXMAL
+4103        C-04102         45669,38               VILLAFLORES
+4106        C-04105         142111,08              CHILPANCINGO
+4111        C-04110         122578,86              HUATULCO
+4118        C-04117         130373,75              OAXACA
+4123        C-04122         10855,65               PINOTEPA
+4127        C-04126         70523,2                MOTOZINTLA
+4132        C-04131         92148,32               MOTOZINTLA
+4134        C-04133         33698,22               VALLADOLID
+4141        C-04140         93202,88               VILLAHERMOSA
+4142        C-04141         51128,76               BONAMPAK
+4145        C-04144         46421,05               ITZAES
+4150        C-04149         32024,89               PUERTO ESCONDIDO
+4154        C-04153         64814,37               NACAJUCA
+4159        C-04158         2248,19                CIUDAD ALTAMIRANO
+4164        C-04163         87877,21               TIZIMIN
+4166        C-04165         2997,32                TICUL
+4167        C-04166         21494,65               MOTOZINTLA
+4168        C-04167         78657,67               CARDENAS
+4169        C-04168         95424,62               MOTOZINTLA
+4173        C-04172         32974,7                NOCHIXTLAN
+4193        C-04192         82710,55               HUATULCO
+4194        C-04193         34110,5                CARDENAS
+4195        C-04194         97360,5                COZUMEL
+4204        C-04203         121488,68              ITZAES
+4213        C-04212         146810,51              BONAMPAK
+4217        C-04216         18186,62               TEHUANTEPEC
+4232        C-04231         36512,4                ESCARCEGA
+4245        C-04244         40268,64               NOCHIXTLAN
+4254        C-04253         63081,72               ESCARCEGA
+4260        C-04259         2293,51                ITZAES
+4270        C-04269         57195,63               HUATULCO
+4273        C-04272         135230,23              COZUMEL
+4281        C-04280         28033,08               TONALA
+4283        C-04282         74901,99               OAXACA
+4296        C-04295         42324,59               VILLAHERMOSA
+4298        C-04297         97387,74               COZUMEL
+4304        C-04303         71370,03               CARDENAS
+4313        C-04312         57989,02               VALLADOLID
+4331        C-04330         145551,19              VALLADOLID
+4337        C-04336         28067,84               CANCUN
+4340        C-04339         150541,05              CIUDAD ALTAMIRANO
+4353        C-04352         64743,09               FRNCISCO DE MONTEJO
+4354        C-04353         46421,23               TEHUANTEPEC
+4359        C-04358         150187,94              VILLAFLORES
+4363        C-04362         116272,23              ACAPULCO
+4374        C-04373         56800,43               ACAPULCO
+4379        C-04378         53824,79               VALLADOLID
+4383        C-04382         83794,48               MACUSPANA
+4384        C-04383         139605,73              VILLAFLORES
+4388        C-04387         37489,06               MOTUL
+4389        C-04388         20676,43               VILLAHERMOSA
+4392        C-04391         20803,3                ESCARCEGA
+4396        C-04395         5431,83                MERIDA
+4403        C-04402         49624,79               HUATULCO
+4411        C-04410         57615,72               MACUSPANA
+4414        C-04413         128423,02              TICUL
+4418        C-04417         44685,13               UXMAL
+4435        C-04434         107307,26              FRNCISCO DE MONTEJO
+4445        C-04444         133711,06              CANCUN
+4451        C-04450         126977,88              VALLADOLID
+4459        C-04458         139967,26              VILLAHERMOSA
+4467        C-04466         9558,04                VALLADOLID
+4471        C-04470         57596,65               PINOTEPA
+4474        C-04473         33340,62               NOCHIXTLAN
+4477        C-04476         139516,71              MERIDA
+4480        C-04479         87358,92               TULUM
+4482        C-04481         75882,31               HUATULCO
+4495        C-04494         101975,83              VILLAFLORES
+4506        C-04505         106729,29              CAMPECHE
+4517        C-04516         131547,19              LA CEIBA
+4523        C-04522         55812,08               PLAYA DEL CARMEN
+4525        C-04524         40616,94               ACAPULCO
+4527        C-04526         32570,46               CARDENAS
+4529        C-04528         123278,92              ESCARCEGA
+4531        C-04530         118079,04              ESCARCEGA
+4532        C-04531         2695,49                NOCHIXTLAN
+4533        C-04532         150768,04              TICUL
+4535        C-04534         119785,79              VALLADOLID
+4537        C-04536         140189,56              CHILPANCINGO
+4544        C-04543         34850,68               NOCHIXTLAN
+4545        C-04544         121319,31              COZUMEL
+4546        C-04545         120525,92              PLAYA DEL CARMEN
+4547        C-04546         18289,33               VALLADOLID
+4548        C-04547         66675,3                NOCHIXTLAN
+4554        C-04553         11922,55               PLAYA DEL CARMEN
+4557        C-04556         28830,97               PUERTO ESCONDIDO
+4563        C-04562         56465,42               FRNCISCO DE MONTEJO
+4587        C-04586         71244,89               LA CEIBA
+4588        C-04587         47324,5                CARDENAS
+4595        C-04594         63027,44               VILLAFLORES
+4596        C-04595         134851,58              TULUM
+4602        C-04601         130658,75              NOCHIXTLAN
+4607        C-04606         17233,9                PINOTEPA
+4609        C-04608         140871,16              TEHUANTEPEC
+4613        C-04612         111355,37              CHETUMAL
+4619        C-04618         27012,46               PUERTO ESCONDIDO
+4621        C-04620         9945,15                MOTOZINTLA
+4625        C-04624         140452,54              LA CEIBA
+4630        C-04629         46516,64               FRNCISCO DE MONTEJO
+4633        C-04632         42559,76               HUATULCO
+4644        C-04643         90457,68               HUATULCO
+4647        C-04646         54550,54               UXMAL
+4648        C-04647         29265,25               VILLAFLORES
+4649        C-04648         100504,7               PLAYA DEL CARMEN
+4650        C-04649         147095,11              CHETUMAL
+4670        C-04669         108834,59              PLAYA DEL CARMEN
+4698        C-04697         9807,45                MOTUL
+4710        C-04709         97884,58               CHILPANCINGO
+4717        C-04716         36862,78               COZUMEL
+4720        C-04719         83809,66               VALLADOLID
+4730        C-04729         108076,67              PLAYA DEL CARMEN
+4747        C-04746         68394,71               MACUSPANA
+4759        C-04758         30262,25               PUERTO ESCONDIDO
+4771        C-04770         100893,03              FRNCISCO DE MONTEJO
+4775        C-04774         120935,6               UXMAL
+4777        C-04776         24454,84               BONAMPAK
+4779        C-04778         100071,84              TONALA
+4783        C-04782         61519,11               PUERTO ESCONDIDO
+4784        C-04783         128532,33              CARDENAS
+4791        C-04790         85291,31               LA CEIBA
+4796        C-04795         123798,49              PROGRESO
+4801        C-04800         90769,7                LA CEIBA
+4809        C-04808         10974,79               NOCHIXTLAN
+4811        C-04810         42530,21               UXMAL
+4812        C-04811         90449,22               MACUSPANA
+4828        C-04827         122868,7               PINOTEPA
+4833        C-04832         64411,34               PLAYA DEL CARMEN
+4835        C-04834         61654,45               PINOTEPA
+4840        C-04839         96816,61               CARDENAS
+4866        C-04865         124435,46              TULUM
+4871        C-04870         47151,6                ITZAES
+4884        C-04883         55455,27               CANCUN
+4890        C-04889         99193,45               LA CEIBA
+4894        C-04893         62746,81               NOCHIXTLAN
+4912        C-04911         138426,29              VILLAHERMOSA
+4916        C-04915         140505,1               MACUSPANA
+4918        C-04917         113987,55              CARDENAS
+4924        C-04923         2317,02                FRNCISCO DE MONTEJO
+4930        C-04929         139361,73              MACUSPANA
+4938        C-04937         76085,77               UXMAL
+4942        C-04941         114921,66              CHILPANCINGO
+4943        C-04942         107831,57              PUERTO ESCONDIDO
+4944        C-04943         58905,96               ACAPULCO
+4948        C-04947         101174,51              CHETUMAL
+4951        C-04950         70798,65               OAXACA
+4953        C-04952         128805,57              VILLAHERMOSA
+4955        C-04954         82755,5                LA CEIBA
+4957        C-04956         68538,7                TULUM
+4959        C-04958         80756,03               VALLADOLID
+4965        C-04964         11794,13               MOTOZINTLA
+4966        C-04965         6551,61                TEHUANTEPEC
+4976        C-04975         130972,13              VILLAFLORES
+4986        C-04985         68109                  HUATULCO
+4987        C-04986         30727,71               MACUSPANA
+4990        C-04989         43890,61               CAMPECHE
+4995        C-04994         109028,8               VILLAHERMOSA
+5004        C-05003         13129,66               CHETUMAL
+5023        C-05022         55752,07               NACAJUCA
+5037        C-05036         105874,01              PROGRESO
+5047        C-05046         140861,27              TEHUANTEPEC
+5052        C-05051         126691,11              CIUDAD ALTAMIRANO
+5055        C-05054         107699,59              PLAYA DEL CARMEN
+5062        C-05061         46310,2                HUATULCO
+5067        C-05066         77149,87               CIUDAD ALTAMIRANO
+5076        C-05075         144320,24              VILLAFLORES
+5077        C-05076         32221,28               CHILPANCINGO
+5081        C-05080         104359,07              OAXACA
+5089        C-05088         124465,6               VALLADOLID
+5093        C-05092         150360,69              BONAMPAK
+5100        C-05099         101366,2               CARDENAS
+5113        C-05112         49711,75               OAXACA
+5114        C-05113         60906,37               MACUSPANA
+5123        C-05122         128140,54              UXMAL
+5124        C-05123         94588,79               CHUBURNA
+5127        C-05126         145181,42              ITZAES
+5139        C-05138         7641,58                NACAJUCA
+5140        C-05139         57518,51               PUERTO ESCONDIDO
+5146        C-05145         59452,99               MACUSPANA
+5148        C-05147         39896,61               HUIMANGUILLO
+5149        C-05148         104703,09              VALLADOLID
+5154        C-05153         118394,2               LA CEIBA
+5157        C-05156         17991,31               PROGRESO
+5163        C-05162         86418,24               MERIDA
+5169        C-05168         94051,9                OAXACA
+5173        C-05172         121847,93              CANCUN
+5180        C-05179         104490,25              MERIDA
+5183        C-05182         135412,48              CHUBURNA
+5185        C-05184         105901,88              CANCUN
+5187        C-05186         40988,18               MACUSPANA
+5190        C-05189         136229,46              TONALA
+5191        C-05190         57083,45               PLAYA DEL CARMEN
+5195        C-05194         75169,32               VILLAHERMOSA
+5203        C-05202         60857,18               NACAJUCA
+5204        C-05203         86699,65               TICUL
+5205        C-05204         132326,21              ACAPULCO
+5220        C-05219         54321,97               CANCUN
+5223        C-05222         1953,14                VALLADOLID
+5229        C-05228         137221,51              PUERTO ESCONDIDO
+5242        C-05241         104169,42              MOTOZINTLA
+5248        C-05247         105937,06              TULUM
+5251        C-05250         65727,98               PLAYA DEL CARMEN
+5252        C-05251         55273,19               CHUBURNA
+5255        C-05254         9855,77                NOCHIXTLAN
+5258        C-05257         98046,67               NACAJUCA
+5260        C-05259         56209,55               BONAMPAK
+5264        C-05263         128007,14              CIUDAD ALTAMIRANO
+5268        C-05267         31326,71               CHUBURNA
+5272        C-05271         11988,13               CHILPANCINGO
+5281        C-05280         12624,66               ITZAES
+5282        C-05281         41453,83               COZUMEL
+5285        C-05284         81795,31               NACAJUCA
+5292        C-05291         150314,89              PROGRESO
+5296        C-05295         120208,43              VILLAHERMOSA
+5298        C-05297         40483,77               ESCARCEGA
+5303        C-05302         52569,29               ESCARCEGA
+5306        C-05305         62362,81               CANCUN
+5310        C-05309         39235,11               CANCUN
+5312        C-05311         100603,55              OAXACA
+5313        C-05312         126985,88              CHUBURNA
+5314        C-05313         77039,91               PUERTO ESCONDIDO
+5326        C-05325         99242,2                NOCHIXTLAN
+5334        C-05333         68133,18               TEHUANTEPEC
+5336        C-05335         127408,43              CIUDAD ALTAMIRANO
+5337        C-05336         147441,6               VILLAHERMOSA
+5347        C-05346         35337,03               CAMPECHE
+5348        C-05347         71364,77               PROGRESO
+5352        C-05351         15478,22               LA CEIBA
+5358        C-05357         36845,81               TEHUANTEPEC
+5359        C-05358         46581,56               CHILPANCINGO
+5365        C-05364         135826,07              ESCARCEGA
+5374        C-05373         120245,59              CAMPECHE
+5379        C-05378         8199,72                CAMPECHE
+5380        C-05379         137354,71              CIUDAD ALTAMIRANO
+9939        P-00438         15000                  TONALA
+10396       P-00895         15000                  TONALA
+10561       P-01060         15000                  TONALA
+10929       P-01428         15000                  TONALA
+10977       P-01476         15000                  TONALA
+11164       P-01663         15000                  TONALA
+11448       P-01947         15000                  TONALA
+11886       P-02385         15000                  TONALA
+11955       P-02454         15000                  TONALA
+12056       P-02555         15000                  TONALA
+12395       P-02894         15000                  TONALA
+12684       P-03183         15000                  TONALA
+12781       P-03280         15000                  TONALA
+12831       P-03330         15000                  TONALA
+12892       P-03391         15000                  TONALA
+12914       P-03413         15000                  TONALA
+13023       P-03522         15000                  TONALA
+13038       P-03537         15000                  TONALA
+13044       P-03543         15000                  TONALA
+13388       P-03887         15000                  TONALA
+13401       P-03900         15000                  TONALA
+13442       P-03941         15000                  TONALA
+13530       P-04029         15000                  TONALA
+13590       P-04089         15000                  TONALA
+13735       P-04234         15000                  TONALA
+13827       P-04326         15000                  TONALA
+14385       P-04884         15000                  TONALA
+14487       P-04986         15000                  TONALA
+
+(1028 rows affected)
+
+
+Completion time: 2020-07-26T18:03:03.9350173-04:00

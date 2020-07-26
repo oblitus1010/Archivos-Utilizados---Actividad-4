@@ -1,0 +1,81 @@
+use Actividad4
+--Inicio creacion de tablas
+-- sucursal
+create table sucursal
+(
+numsucursal int primary key not null,
+nombresucursal varchar(50) not null,
+estado varchar(30) not null,
+activo bigint not null
+)
+-- Creamos la relacion cliente
+create table cliente
+(
+idcliente int not null PRIMARY KEY,
+nombrecliente varchar(50) not null,
+direccion varchar(60) not null,
+estado varchar(30) not null,
+nacimiento date not null
+)
+-- Relacion cuenta
+create table cuenta
+(
+numcta varchar(15) primary key not null,
+numsucursal int not null,
+saldo float not null,
+fecha date not null
+--Estableciendo llaves foraneas
+CONSTRAINT FK_cuenta_numsucursal FOREIGN KEY (numsucursal) REFERENCES sucursal(numsucursal)
+)
+-- Relacion ctacliente
+create table ctacliente
+(
+numcta varchar(15) not null,
+idcliente int not null
+--Estableciendo llaves foraneas
+CONSTRAINT FK_ctacliente_idcliente FOREIGN KEY (idcliente) REFERENCES cliente(idcliente),
+--CONSTRAINT FK_ctacliente_numcta FOREIGN KEY (numcta) REFERENCES cuenta(numcta)
+)
+-- Relacion prestamo
+create table prestamo
+(
+numprestamo varchar(10) primary key not null,
+numsucursal int not null,
+importe float not null,
+fecha date not null
+--Estableciendo llaves foraneas
+CONSTRAINT FK_prestamo_numsucursal FOREIGN KEY (numsucursal) REFERENCES sucursal(numsucursal)
+)
+-- Relacion prestatario
+create table prestatario
+(
+numprestamo varchar(10) primary key not null,
+idcliente int not null
+--Estableciendo llaves foraneas
+CONSTRAINT FK_prestatario_idcliente FOREIGN KEY (idcliente) REFERENCES cliente(idcliente),
+--CONSTRAINT FK_prestatario_numprestamo FOREIGN KEY (numprestamo) REFERENCES prestamo(numprestamo)
+)
+--Fin creacion de tablas
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--INSERT INTO cliente (idcliente, nombrecliente, direccion, estado, nacimiento)
+--VALUES
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--DESACTIVAR CLAVES FORANEAS
+
+/*USE Actividad4;
+GO  
+ALTER TABLE ctacliente
+NOCHECK CONSTRAINT FK_ctacliente_numcta;  
+GO */
+/*USE Actividad4;
+GO  
+ALTER TABLE ctacliente
+NOCHECK CONSTRAINT FK_ctacliente_idcliente;  
+GO*/
+
+-- PARA ACTIVAR SOLO UTILIZAR CHECK 

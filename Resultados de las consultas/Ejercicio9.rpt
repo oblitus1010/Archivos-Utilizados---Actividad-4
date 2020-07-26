@@ -1,0 +1,292 @@
+﻿idcliente   nombrecliente                                      direccion                                                    estado                         nacimiento numcta          numprestamo
+----------- -------------------------------------------------- ------------------------------------------------------------ ------------------------------ ---------- --------------- -----------
+4101        SALVADOR NÚÑEZ SÁEZ                                ROA BARCENAS NÚMERO 436                                      CHIAPAS                        1954-04-12 C-10268         P-06768
+7012        AGUSTÍN SANTANA MÁRQUEZ                            ADELAIDA MZNA 278                                            QUINTANA ROO                   1967-11-17 C-07011         P-06011
+7015        XAVIER GONZÁLEZ MORALES                            TORRES QUINTERO NUM. 318                                     CAMPECHE                       1974-07-14 C-09514         P-06014
+7016        CESÁREO SÁNCHEZ HERNÁNDEZ                          CALLE 1 MZNA 578                                             MORELOS                        1993-02-13 C-07015         P-06015
+7019        SARA MÉNDEZ BRAVO                                  GRAL. RINCON MANZANA 594                                     DISTRITO FEDERAL               1965-04-28 C-09518         P-08518
+7028        SERGIO TORRES GARRIDO                              ATLETAS NUM. 158                                             NUEVO LEÓN                     1974-10-21 C-07027         P-06027
+7028        SERGIO TORRES GARRIDO                              ATLETAS NUM. 158                                             NUEVO LEÓN                     1974-10-21 C-07027         P-08527
+7034        BONIFACIO VICENTE DELGADO                          PROLON BUENOS AIRES MZNA 20                                  DISTRITO FEDERAL               1981-09-20 C-07033         P-08533
+7058        RAÚL SANZ PÉREZ                                    MANUEL DOBLADO NO. 412                                       SONORA                         1984-01-25 C-07057         P-06057
+7074        ÁUREA GONZÁLEZ GUERRERO                            MARIA ELENA SANDOVAL MANZANA 281                             SINALOA                        1979-11-14 C-07073         P-06073
+7074        ÁUREA GONZÁLEZ GUERRERO                            MARIA ELENA SANDOVAL MANZANA 281                             SINALOA                        1979-11-14 C-09573         P-06073
+7084        FELICIANO BRAVO HERNÁNDEZ                          CALZADA DE LA VIRGEN MZNA 491                                GUANAJUATO                     1992-05-14 C-07083         P-06083
+7100        ENRIQUE FERNÁNDEZ CORTÉS                           MANUEL DOBLADO MZNA 596                                      QUERÉTARO                      1975-06-27 C-07099         P-08599
+7109        FRANCISCO GIMÉNEZ IBÁÑEZ                           AV. LA HUERTA MANZANA 557                                    SONORA                         1983-03-06 C-07108         P-06108
+7117        PROBO VARGAS HERRERO                               MANUEL GANDA NUM. 484                                        GUANAJUATO                     1993-02-07 C-09616         P-06116
+7117        PROBO VARGAS HERRERO                               MANUEL GANDA NUM. 484                                        GUANAJUATO                     1993-02-07 C-09616         P-08616
+7118        INÉS DELGADO ARIAS                                 CERRADA DE CANAL NACIONAL NUM. 322                           AGUASCALIENTES                 1955-07-25 C-09617         P-06117
+7118        INÉS DELGADO ARIAS                                 CERRADA DE CANAL NACIONAL NUM. 322                           AGUASCALIENTES                 1955-07-25 C-09617         P-08617
+7129        EDGAR ORTIZ MORA                                   VILLA FRATI NUM. 4                                           QUERÉTARO                      1985-06-28 C-09628         P-08628
+7141        WILFREDO MOYA RAMOS                                NIÑOS HEROES NÚMERO 270                                      SAN LUIS POTOSÍ                1992-04-13 C-07140         P-06140
+7145        JULIO PARRA ALONSO                                 RODOLFO FIERRO NÚMERO 116                                    QUERÉTARO                      1979-06-15 C-09644         P-08644
+7185        MAR RODRÍGUEZ LEÓN                                 CALLE ZARAGOZA NO. 453                                       TABASCO                        1967-01-17 C-07184         P-08684
+7198        LINO FERNÁNDEZ HERNÁNDEZ                           JUAN ALDAMA NO. 187                                          ESTADO DE MÉXICO               1990-03-05 C-09697         P-06197
+7198        LINO FERNÁNDEZ HERNÁNDEZ                           JUAN ALDAMA NO. 187                                          ESTADO DE MÉXICO               1990-03-05 C-09697         P-08697
+7200        ÁNGELES FERRER ORTIZ                               CALLE 5 DE FEBRERO NO. 419                                   ESTADO DE MÉXICO               1984-01-10 C-09699         P-08699
+7201        MARINA RUBIO REY                                   RAFAEL CRAVIOTO NUM. 61                                      OAXACA                         1958-10-17 C-07200         P-06200
+7209        CONSUELO RUIZ MÉNDEZ                               AV. DE LAS ROSAS MANZANA 759                                 DISTRITO FEDERAL               1968-11-02 C-07208         P-06208
+7213        CIRO CARMONA IGLESIAS                              BELLACO NÚMERO 407                                           ZACATECAS                      1958-06-19 C-07212         P-06212
+7213        CIRO CARMONA IGLESIAS                              BELLACO NÚMERO 407                                           ZACATECAS                      1958-06-19 C-07212         P-08712
+7221        LUCANO CANO GÓMEZ                                  U. LOMAS DE PLATEROS NO. 135                                 QUINTANA ROO                   1982-02-25 C-09720         P-08720
+7228        SARA SERRANO CALVO                                 GUERRILLERA NO. 630                                          VERACRUZ                       1983-08-26 C-07227         P-06227
+7228        SARA SERRANO CALVO                                 GUERRILLERA NO. 630                                          VERACRUZ                       1983-08-26 C-09727         P-06227
+7229        MATEO PASCUAL REYES                                HIDALGO MZNA 575                                             MORELOS                        1974-11-14 C-09728         P-08728
+7238        ANATOLIO MARÍN CABALLERO                           JITOTOL NUM. 170                                             OAXACA                         1983-03-10 C-07237         P-06237
+7251        OLGA GALLEGO HERNÁNDEZ                             BULEVARD DE LA HACIENDA MANZANA 3                            NAYARIT                        1978-08-14 C-09750         P-08750
+7256        FIDEL GUTIÉRREZ DELGADO                            CAPIRO NO. 782                                               NUEVO LEÓN                     1968-08-11 C-09755         P-08755
+7258        ONÉSIMO ÁLVAREZ LOZANO                             CALLE GRANADAS NO. 710                                       DURANGO                        1968-07-05 C-07257         P-06257
+7258        ONÉSIMO ÁLVAREZ LOZANO                             CALLE GRANADAS NO. 710                                       DURANGO                        1968-07-05 C-09757         P-06257
+7267        EUGENIO SÁEZ SANTANA                               PORTO ALEGRE MZNA 342                                        SONORA                         1961-08-23 C-07266         P-06266
+7267        EUGENIO SÁEZ SANTANA                               PORTO ALEGRE MZNA 342                                        SONORA                         1961-08-23 C-07266         P-08766
+7278        SALOMÉ DOMÍNGUEZ SANTOS                            PONIENTE 22 NUM. 1                                           DURANGO                        1971-04-24 C-09777         P-06277
+7278        SALOMÉ DOMÍNGUEZ SANTOS                            PONIENTE 22 NUM. 1                                           DURANGO                        1971-04-24 C-09777         P-08777
+7295        COLUMBANO FLORES PASCUAL                           CALLE DE MINAS NO. 697                                       TAMAULIPAS                     1971-01-14 C-07294         P-06294
+7295        COLUMBANO FLORES PASCUAL                           CALLE DE MINAS NO. 697                                       TAMAULIPAS                     1971-01-14 C-07294         P-08794
+7304        SIMEÓN PARRA CRESPO                                PUERTO MARQUEZ NUM. 121                                      CHIAPAS                        1993-07-03 C-07303         P-06303
+7305        EMILIANO VELASCO ARIAS                             ORQUIDEA MZNA 89                                             YUCATÁN                        1992-01-11 C-07304         P-08804
+7305        EMILIANO VELASCO ARIAS                             ORQUIDEA MZNA 89                                             YUCATÁN                        1992-01-11 C-09804         P-08804
+7307        CONSUELO NAVARRO GARCÍA                            CERRO DE LOS GAVILANES NUM. 340                              QUINTANA ROO                   1963-01-25 C-07306         P-08806
+7317        MARIANO PASCUAL GONZÁLEZ                           ANDADOR ARCHIDONA MANZANA 468                                NUEVO LEÓN                     1966-12-28 C-09816         P-08816
+7330        HÉCTOR CANO CANO                                   AV MEXICO NUM. 583                                           PUEBLA                         1990-05-09 C-09829         P-08829
+7354        ALEJANDRO TORRES MÁRQUEZ                           BALVANERA NUM. 326                                           NAYARIT                        1987-02-15 C-07353         P-06353
+7355        ARNALDO MOYA CAMPOS                                EMILIANO CARRANZA NO. 719                                    NUEVO LEÓN                     1978-05-11 C-09854         P-08854
+7360        DARIO MARTÍN VELASCO                               HIGUERA NUMERO MANZANA 212                                   CAMPECHE                       1969-01-11 C-07359         P-06359
+7360        DARIO MARTÍN VELASCO                               HIGUERA NUMERO MANZANA 212                                   CAMPECHE                       1969-01-11 C-07359         P-08859
+7376        BERNABÉ MOLINA JIMÉNEZ                             PRIMERA CERRADA DE LAS ROSAS NO. 623                         GUERRERO                       1990-12-04 C-09875         P-08875
+7378        JOSUÉ MEDINA GÓMEZ                                 CDA.DE LA SOLEDAD MZNA 490                                   MORELOS                        1993-09-23 C-07377         P-08877
+7390        LEOCADIA CABRERA GALLEGO                           PRIMERA CERRDA DE MARGARITAS NÚMERO 143                      SAN LUIS POTOSÍ                1961-01-03 C-07389         P-06389
+7392        PATRICIO DURÁN ORTEGA                              PRIMERA CERRADA DE ROBLE NUM. 551                            QUERÉTARO                      1982-06-28 C-07391         P-06391
+7392        PATRICIO DURÁN ORTEGA                              PRIMERA CERRADA DE ROBLE NUM. 551                            QUERÉTARO                      1982-06-28 C-09891         P-06391
+7406        BALDUINO MEDINA NÚÑEZ                              SAN FRANCISCO NÚMERO 487                                     JALISCO                        1978-03-08 C-07405         P-06405
+7419        ABSALÓN GALLARDO JIMÉNEZ                           AV. RIO FRIO NUM. 77                                         OAXACA                         1989-03-15 C-09918         P-06418
+7422        JAVIER MARTÍN VARGAS                               CANAL SECO MZNA 19                                           SINALOA                        1973-05-10 C-07421         P-08921
+7430        ANIANO IGLESIAS LOZANO                             LOMBARDOS NO. 545                                            CAMPECHE                       1989-01-24 C-07429         P-06429
+7436        PASCUAL MOYA AGUILAR                               ANDADOR CUAHUTEMOC MANZANA 545                               AGUASCALIENTES                 1956-01-01 C-07435         P-06435
+7436        PASCUAL MOYA AGUILAR                               ANDADOR CUAHUTEMOC MANZANA 545                               AGUASCALIENTES                 1956-01-01 C-09935         P-06435
+7462        CARINA SANTOS GIMÉNEZ                              VILLA DE LAS FLORES MANZANA 789                              VERACRUZ                       1985-07-27 C-09961         P-06461
+7472        TEODOSIA SERRANO RUIZ                              LICENCIADO VERDAD MZNA 538                                   OAXACA                         1959-08-15 C-07471         P-08971
+7472        TEODOSIA SERRANO RUIZ                              LICENCIADO VERDAD MZNA 538                                   OAXACA                         1959-08-15 C-09971         P-08971
+7480        RAÚL GALLARDO DURÁN                                LINO MERINO MANZANA 221                                      CHIHUAHUA                      1961-02-06 C-07479         P-08979
+7488        MAURICIO CALVO LOZANO                              DOCTOR MORA Y VALLE NUM. 618                                 COAHUILA                       1965-12-25 C-07487         P-06487
+7493        FABIOLA MOLINA MUÑOZ                               ADRIAN BROWER NO. 239                                        OAXACA                         1980-05-03 C-07492         P-06492
+7494        ILDEFONSO RAMOS VICENTE                            NUEVA TABACHIN NÚMERO 641                                    CAMPECHE                       1984-06-03 C-07493         P-08993
+7494        ILDEFONSO RAMOS VICENTE                            NUEVA TABACHIN NÚMERO 641                                    CAMPECHE                       1984-06-03 C-09993         P-08993
+7518        GEMA SOTO ALONSO                                   CRUZ VERDE MZNA 555                                          DISTRITO FEDERAL               1979-06-05 C-10017         P-09017
+7550        ANNA NÚÑEZ NAVARRO                                 BLVD. ADOLFO LOPEZ MATEOS MANZANA 408                        CAMPECHE                       1954-01-21 C-07549         P-09049
+7557        JAUME CALVO DÍEZ                                   AV. DEL TALLER MZNA 46                                       TAMAULIPAS                     1977-10-03 C-10056         P-09056
+7567        RICARDO LÓPEZ LOZANO                               CALLE PETIRROJO NÚMERO 166                                   YUCATÁN                        1956-04-05 C-10066         P-06566
+7590        MOHAMED DELGADO BRAVO                              CDA. DE FRESNO NUM. 712                                      SINALOA                        1975-06-07 C-10089         P-09089
+7591        DIEGO SANTOS HERNÁNDEZ                             AV. CASTILLO DE CHAPULTEPEC NO. 582                          DISTRITO FEDERAL               1981-05-02 C-07590         P-09090
+7596        ALFREDO SÁNCHEZ BRAVO                              SALTO DEL AGUA MANZANA 481                                   ESTADO DE MÉXICO               1993-08-03 C-07595         P-09095
+7598        EMILIANO LEÓN MEDINA                               CERRO DE ZEMPOALA NÚMERO 576                                 ESTADO DE MÉXICO               1959-07-06 C-07597         P-09097
+7607        NATALIA MARTÍN VARGAS                              ISABEL LA CATOLICA NO. 786                                   NUEVO LEÓN                     1980-12-13 C-10106         P-09106
+7608        ANDRÉS VICENTE RAMOS                               NATIVITAS NUM. 528                                           JALISCO                        1973-01-21 C-07607         P-06607
+7613        SUSANA CAMPOS ROMÁN                                PROL AHUEJOTES NÚMERO 361                                    VERACRUZ                       1989-10-17 C-10112         P-09112
+7618        REMEDIOS HERRERA ROMERO                            1A. CALLE SUR NO. 775                                        COAHUILA                       1955-02-17 C-10117         P-06617
+7622        MAXIMILIANO ROMÁN GALLEGO                          HALCON NO. 301                                               ZACATECAS                      1962-12-02 C-07621         P-06621
+7622        MAXIMILIANO ROMÁN GALLEGO                          HALCON NO. 301                                               ZACATECAS                      1962-12-02 C-07621         P-09121
+7628        ALMUDENA MOYA GÓMEZ                                SAGITARIO MZNA 539                                           NAYARIT                        1990-04-19 C-10127         P-09127
+7636        BÁRBARA MEDINA ESTEBAN                             HACIENDA DE PEÑUELAS NO. 407                                 MICHOACÁN                      1976-04-26 C-07635         P-06635
+7636        BÁRBARA MEDINA ESTEBAN                             HACIENDA DE PEÑUELAS NO. 407                                 MICHOACÁN                      1976-04-26 C-07635         P-09135
+7636        BÁRBARA MEDINA ESTEBAN                             HACIENDA DE PEÑUELAS NO. 407                                 MICHOACÁN                      1976-04-26 C-10135         P-06635
+7636        BÁRBARA MEDINA ESTEBAN                             HACIENDA DE PEÑUELAS NO. 407                                 MICHOACÁN                      1976-04-26 C-10135         P-09135
+7639        INMACULADA MARTÍNEZ PRIETO                         CALLE 5 DE MAYO NO. 18                                       VERACRUZ                       1971-10-06 C-07638         P-06638
+7639        INMACULADA MARTÍNEZ PRIETO                         CALLE 5 DE MAYO NO. 18                                       VERACRUZ                       1971-10-06 C-07638         P-09138
+7648        OTILIA ROMÁN REY                                   LAS FLORES MZNA 77                                           TABASCO                        1962-11-20 C-07647         P-06647
+7648        OTILIA ROMÁN REY                                   LAS FLORES MZNA 77                                           TABASCO                        1962-11-20 C-07647         P-09147
+7652        ISIDRO VEGA ALONSO                                 PUERTO MARQUEZ MANZANA 605                                   CHIHUAHUA                      1955-06-07 C-10151         P-06651
+7662        NATALIA MÁRQUEZ MUÑOZ                              AV. CRISTOBAL HIDALGO MANZANA 514                            SAN LUIS POTOSÍ                1975-11-27 C-07661         P-09161
+7666        CONRADO MÉNDEZ ARIAS                               BAJADA DEL SALTO MANZANA 357                                 JALISCO                        1989-11-11 C-07665         P-09165
+7668        FEDERICO MOYA ÁLVAREZ                              EDIF AGUAMIEL NUM. 575                                       HIDALGO                        1975-10-04 C-10167         P-09167
+7670        EDMUNDO MÁRQUEZ HERRERO                            SAN EMETERIO NUM. 725                                        NAYARIT                        1985-03-09 C-10169         P-06669
+7686        CLARA CARMONA ALONSO                               PRIV. JESUS LECUONA MANZANA 299                              TABASCO                        1976-12-01 C-07685         P-09185
+7686        CLARA CARMONA ALONSO                               PRIV. JESUS LECUONA MANZANA 299                              TABASCO                        1976-12-01 C-10185         P-09185
+7698        CARMEN CASTRO REY                                  CLUB ATLAS NO. 35                                            CAMPECHE                       1966-09-14 C-10197         P-09197
+7707        CAYO FERRER LORENZO                                FRANCISCO LEIVA NUM. 642                                     SINALOA                        1955-04-11 C-07706         P-04755
+7714        EULALIA SOLER ALONSO                               ANDADOR 2 DE COMPOSTELA MZNA 770                             CAMPECHE                       1964-09-03 C-10213         P-06713
+7718        PATRICIA SERRANO MONTERO                           CALLE MONTEALEGRE MZNA 246                                   ZACATECAS                      1960-07-13 C-10217         P-06717
+7718        PATRICIA SERRANO MONTERO                           CALLE MONTEALEGRE MZNA 246                                   ZACATECAS                      1960-07-13 C-10217         P-09217
+7729        JOSUÉ SOLER FLORES                                 HEROES DE NACOZARI NUM. 798                                  YUCATÁN                        1967-09-09 C-07728         P-06728
+7729        JOSUÉ SOLER FLORES                                 HEROES DE NACOZARI NUM. 798                                  YUCATÁN                        1967-09-09 C-07728         P-09228
+7739        DONATO GONZÁLEZ GALLEGO                            BOCA DEL RIO NO. 799                                         GUANAJUATO                     1990-12-23 C-10238         P-06738
+7744        LORENA NIETO CAMBIL                                HOMBRES ILUSTRES NUM. 345                                    YUCATÁN                        1991-09-07 C-07743         P-09243
+7746        TEÓFANES CARMONA REY                               ANANTLI NUM. 744                                             PUEBLA                         1992-06-28 C-07745         P-09245
+7758        MARÍA DELGADO GUERRERO                             AHUACATL NÚMERO 708                                          MICHOACÁN                      1958-12-08 C-07757         P-06757
+7758        MARÍA DELGADO GUERRERO                             AHUACATL NÚMERO 708                                          MICHOACÁN                      1958-12-08 C-10257         P-06757
+7760        CAYO HIDALGO CABALLERO                             XICOTENCATL NUM. 752                                         CHIAPAS                        1961-07-19 C-10259         P-09259
+7787        ADELAIDA DÍEZ RUIZ                                 ISABEL LA CATOLICA NO. 598                                   DISTRITO FEDERAL               1970-01-18 C-07786         P-09286
+7794        NORBERTO FLORES VELASCO                            CALLE DE MINAS NO. 595                                       BAJA CALIFORNIA                1982-06-04 C-07793         P-06793
+7814        MANUELA RUIZ MARTÍN                                MIGUEL NEGRETE NÚMERO 394                                    NUEVO LEÓN                     1958-11-13 C-10313         P-06813
+7814        MANUELA RUIZ MARTÍN                                MIGUEL NEGRETE NÚMERO 394                                    NUEVO LEÓN                     1958-11-13 C-10313         P-09313
+7820        ABSALÓN PRIETO ORTIZ                               FRANCISCO LEIVA MANZANA 379                                  DURANGO                        1988-05-02 C-07819         P-06819
+7820        ABSALÓN PRIETO ORTIZ                               FRANCISCO LEIVA MANZANA 379                                  DURANGO                        1988-05-02 C-07819         P-09319
+7821        WILFREDO REY LORENZO                               CALZADA DE LA ROMERIA MANZANA 309                            COAHUILA                       1994-12-04 C-07820         P-09320
+7825        BERNARDO GIL ORTIZ                                 C. JOSE FRANCISCO RUIZ MASSIEU NO. 303                       PUEBLA                         1963-11-03 C-07824         P-06824
+7833        REINALDO PASCUAL BENÍTEZ                           HALCON MZNA 776                                              GUANAJUATO                     1985-10-18 C-10332         P-06832
+7834        LEOCADIA DÍAZ FERRER                               FRESNOS NUM. 670                                             AGUASCALIENTES                 1990-11-26 C-10333         P-09333
+7837        JUVENAL LORENZO MOLINA                             VERIN NO. 590                                                PUEBLA                         1973-10-21 C-07836         P-06836
+7837        JUVENAL LORENZO MOLINA                             VERIN NO. 590                                                PUEBLA                         1973-10-21 C-10336         P-06836
+7854        JONATHAN MÉNDEZ RUIZ                               CDA DE MINAS NO. 410                                         SINALOA                        1960-10-23 C-07853         P-09353
+7855        ANNA RUIZ VELASCO                                  ALZATE NUM. 624                                              COAHUILA                       1988-11-10 C-07854         P-06854
+7855        ANNA RUIZ VELASCO                                  ALZATE NUM. 624                                              COAHUILA                       1988-11-10 C-10354         P-06854
+7870        BÁRBARA LOZANO GIL                                 ANDADOR 24 MANUELA SAENZ NUM. 263                            GUERRERO                       1992-10-12 C-07869         P-06869
+7873        MARGARITA CRESPO SÁEZ                              ANDADOR 24 MANUELA SAENZ NUM. 353                            NUEVO LEÓN                     1967-04-16 C-07872         P-06872
+7885        LORENA MARÍN MORENO                                4A. CERRADA DE PEDRO MA. ANAYA NO. 757                       PUEBLA                         1963-06-20 C-10384         P-06884
+7885        LORENA MARÍN MORENO                                4A. CERRADA DE PEDRO MA. ANAYA NO. 757                       PUEBLA                         1963-06-20 C-10384         P-09384
+7898        BERNARDO GIL FLORES                                VELAZQUEZ DE LEON MANZANA 13                                 OAXACA                         1984-03-23 C-07897         P-09397
+7905        FORTUNATO GARRIDO SOLER                            SUR 22 MZNA 453                                              AGUASCALIENTES                 1969-01-07 C-07904         P-06904
+7907        JOAQUÍN PASTOR GALLARDO                            BALVANERA NO. 196                                            CHIAPAS                        1958-04-18 C-10406         P-09406
+7934        ARTEMIO SOLER HERNÁNDEZ                            CALLE10 DE ABRIL MZNA 582                                    NAYARIT                        1986-06-20 C-07933         P-09433
+7945        TOBÍAS GARRIDO MEDINA                              PLAN DE ATOTONILCO MZNA 739                                  MORELOS                        1986-02-25 C-07944         P-09444
+7946        TITO CANO CORTÉS                                   RENATO LEDUC NUM. 108                                        GUANAJUATO                     1958-05-19 C-07945         P-09445
+7952        MATILDE GUERRERO DURÁN                             PIEDRA CALIZA MANZANA 280                                    GUANAJUATO                     1990-11-18 C-07951         P-09451
+7956        ELÍAS MORENO MEDINA                                AV. DEL TALLER NUM. 301                                      ESTADO DE MÉXICO               1977-03-14 C-07955         P-06955
+7966        EDUARDO MORA LOZANO                                ADRIANA MANZANA 223                                          GUERRERO                       1992-09-14 C-07965         P-06965
+7966        EDUARDO MORA LOZANO                                ADRIANA MANZANA 223                                          GUERRERO                       1992-09-14 C-10465         P-06965
+7985        ÚRSULA ESTEBAN CABALLERO                           AGRICULTURA NÚMERO 266                                       CAMPECHE                       1993-06-25 C-07984         P-09484
+7995        ROSARIO IBÁÑEZ IBÁÑEZ                              CALLE 60 MZNA 365                                            SINALOA                        1968-08-16 C-07994         P-09494
+8002        ISMAEL LORENZO MOYA                                GALDINO H CASADOS NUM. 444                                   MICHOACÁN                      1963-01-08 C-08001         P-07001
+8004        ESTHER VELASCO MEDINA                              CRUZ VERDE NO. 14                                            GUANAJUATO                     1984-01-27 C-10503         P-09503
+8008        GREGORIO REY MARÍN                                 AV. ALTILLO NÚMERO 432                                       CHIHUAHUA                      1990-08-21 C-08007         P-07007
+8011        ANTERO MONTORO SÁNCHEZ                             ANDADOR DEL LLANO NO. 406                                    MORELOS                        1966-09-02 C-08010         P-07010
+8034        PEDRO ORTIZ GALLEGO                                CARTILLA MZNA 359                                            SONORA                         1955-01-16 C-08033         P-07033
+8034        PEDRO ORTIZ GALLEGO                                CARTILLA MZNA 359                                            SONORA                         1955-01-16 C-08033         P-09533
+8036        YOLANDA CRUZ AGUILAR                               CALLE10 DE ABRIL NO. 607                                     NAYARIT                        1955-02-04 C-10535         P-09535
+8057        PÍO RUIZ MÁRQUEZ                                   TIBURCIO MONTIEL NUM. 12                                     DURANGO                        1958-03-12 C-10556         P-09556
+8069        ROSARIO GIL LORENZO                                CALLE 24 NÚMERO 17                                           ZACATECAS                      1971-12-08 C-10568         P-09568
+8077        CARMEN FERNÁNDEZ CABALLERO                         LERDO NÚMERO 280                                             GUANAJUATO                     1970-12-23 C-10576         P-07076
+8106        BALDOMERO TORRES FERNÁNDEZ                         CALLE MELCHOR OCAMPO NO. 339                                 BAJA CALIFORNIA                1961-03-26 C-08105         P-09605
+8110        VIRGINIA CANO AGUILAR                              MANUEL GANDA MANZANA 541                                     GUERRERO                       1956-06-01 C-08109         P-07109
+8110        VIRGINIA CANO AGUILAR                              MANUEL GANDA MANZANA 541                                     GUERRERO                       1956-06-01 C-10609         P-07109
+8113        ARIADNA BENÍTEZ BRAVO                              ANDADOR 2 DE COMPOSTELA NUM. 461                             SAN LUIS POTOSÍ                1968-12-22 C-08112         P-07112
+8122        CRISTINA ESTEBAN LOZANO                            BOSQUES DE FELIPE MZNA 270                                   COAHUILA                       1988-12-09 C-08121         P-09621
+8126        EMILIO PARRA RAMOS                                 SAN FRANCISCO NO. 338                                        MICHOACÁN                      1971-08-09 C-08125         P-07125
+8131        CONSTANTINO PEÑA PRIETO                            ANDADOR ANTONIO RULLAN FERRER NO. 612                        CHIHUAHUA                      1970-03-18 C-08130         P-09630
+8136        TRINIDAD HIDALGO CRESPO                            CECILIO ROBELO MZNA 639                                      MORELOS                        1966-09-04 C-08135         P-07135
+8136        TRINIDAD HIDALGO CRESPO                            CECILIO ROBELO MZNA 639                                      MORELOS                        1966-09-04 C-10635         P-07135
+8137        INOCENCIO FERRER MORENO                            TEPETONGO MZNA 790                                           MORELOS                        1984-01-01 C-08136         P-07136
+8142        HERIBERTO MONTERO VEGA                             ROSA DE SIRIA MZNA 759                                       TABASCO                        1960-05-14 C-08141         P-09641
+8142        HERIBERTO MONTERO VEGA                             ROSA DE SIRIA MZNA 759                                       TABASCO                        1960-05-14 C-10641         P-09641
+8167        MATÍAS CASTRO ORTEGA                               BOLIVAR NÚMERO 7                                             SONORA                         1977-06-01 C-10666         P-09666
+8172        RUBÉN SANZ SERRANO                                 REAL DE LA ARBOLEDA MANZANA 25                               SINALOA                        1991-05-05 C-10671         P-07171
+8172        RUBÉN SANZ SERRANO                                 REAL DE LA ARBOLEDA MANZANA 25                               SINALOA                        1991-05-05 C-10671         P-09671
+8181        JONÁS BLESA REYES                                  CALLE ZARAGOZA NUM. 695                                      TAMAULIPAS                     1968-03-06 C-08180         P-07180
+8187        FABIOLA GARRIDO MORENO                             LAS ROSAS NO. 175                                            HIDALGO                        1968-06-12 C-10686         P-07186
+8191        PANCRACIO CAMBIL SANZ                              LIBERTAD NÚMERO 48                                           COAHUILA                       1979-09-09 C-10690         P-07190
+8199        MOHAMED MARTÍN CARMONA                             VICENTE GUERRERO MZNA 685                                    CHIHUAHUA                      1971-01-27 C-10698         P-07198
+8201        MARIO BENÍTEZ CAMBIL                               PRIVADA EXHACIENDA DE LA ESCALERA NO. 684                    VERACRUZ                       1992-06-27 C-08200         P-07200
+8204        VIRGINIA BLESA ROMERO                              ACERCAMIENTO NACIONAL NÚMERO 778                             SONORA                         1991-06-15 C-08203         P-09703
+8204        VIRGINIA BLESA ROMERO                              ACERCAMIENTO NACIONAL NÚMERO 778                             SONORA                         1991-06-15 C-10703         P-09703
+8214        PROBO SANTOS MOLINA                                HOMBRES ILUSTRES NO. 65                                      HIDALGO                        1990-02-10 C-10713         P-09713
+8221        RUPERTO REY REY                                    PALOMAR MANZANA 589                                          HIDALGO                        1990-08-23 C-10720         P-07220
+8226        AURELIO ÁLVAREZ CABRERA                            CIR.JOSEFA ORTIZ NUM. 111                                    PUEBLA                         1974-08-05 C-10725         P-07225
+8226        AURELIO ÁLVAREZ CABRERA                            CIR.JOSEFA ORTIZ NUM. 111                                    PUEBLA                         1974-08-05 C-10725         P-09725
+8257        DACIO ESTEBAN MONTERO                              RETORNO ELIAS F. HURTADO NO. 779                             OAXACA                         1969-06-09 C-08256         P-09756
+8262        ROQUE MORALES SOLER                                CDA.DE LA SOLEDAD NO. 190                                    SINALOA                        1973-01-08 C-10761         P-07261
+8283        LOURDES FERNÁNDEZ PRIETO                           ARTEMISAS MANZANA 81                                         COAHUILA                       1973-11-14 C-08282         P-07282
+8283        LOURDES FERNÁNDEZ PRIETO                           ARTEMISAS MANZANA 81                                         COAHUILA                       1973-11-14 C-08282         P-09782
+8297        CESÁREO ORTEGA GUERRERO                            LAGO MANAGUA MANZANA 462                                     GUERRERO                       1994-07-15 C-10796         P-09796
+8298        TORIBIO DÍAZ BRAVO                                 AV. UNIVERSIDAD NO. 146                                      COAHUILA                       1977-03-14 C-08297         P-07297
+8318        ADRIÁN LEÓN RUBIO                                  PRIVADA AZOYAPAN NUM. 513                                    COAHUILA                       1994-01-03 C-08317         P-09817
+8335        GREGORIO SANZ SOTO                                 CARTILLA NUM. 456                                            SAN LUIS POTOSÍ                1962-08-03 C-08334         P-07334
+8336        SOLEDAD VIDAL CRUZ                                 OCOTAL NÚMERO 211                                            MICHOACÁN                      1988-05-16 C-10835         P-07335
+8343        SIMEÓN MARTÍNEZ RODRÍGUEZ                          BRAVO MZNA 190                                               QUINTANA ROO                   1977-02-23 C-10842         P-07342
+8352        FELICIANO TORRES BRAVO                             LEONARDO DA VINCI MANZANA 172                                CAMPECHE                       1968-01-08 C-08351         P-07351
+8362        MATÍAS CANO ROMÁN                                  SN.MARCOS Y LAS AMERICAS MANZANA 709                         TLAXCALA                       1980-03-04 C-08361         P-09861
+8388        JUANA PEÑA NIETO                                   CEDROS NO. 678                                               TABASCO                        1957-08-03 C-10887         P-07387
+8400        JORDI CASTRO SOTO                                  SAGITARIO NO. 568                                            JALISCO                        1970-12-25 C-08399         P-07399
+8404        MARCIAL CRUZ GUERRERO                              CERRO DE LAS PALOMAS MZNA 235                                TABASCO                        1956-01-21 C-08403         P-07403
+8425        FRANCISCO GIL CARRASCO                             LAGO PATZCUARO NUM. 611                                      TLAXCALA                       1981-08-24 C-08424         P-07424
+8447        CRISTINA SANTANA TORRES                            JOSEFA ORTIZ DE DOMINGUEZ MZNA 345                           BAJA CALIFORNIA                1957-05-22 C-08446         P-09946
+8447        CRISTINA SANTANA TORRES                            JOSEFA ORTIZ DE DOMINGUEZ MZNA 345                           BAJA CALIFORNIA                1957-05-22 C-10946         P-09946
+8452        AURELIA CABRERA CALVO                              CALZ. DESIERTO DE LOS LEONES MANZANA 292                     CHIAPAS                        1990-05-05 C-08451         P-09951
+8458        SIRO CRESPO VEGA                                   20 DE NOVIEMBRE MANZANA 766                                  CHIHUAHUA                      1970-11-22 C-10957         P-07457
+8462        FRANCISCO SOTO CAMBIL                              BULEVARD DE LA HACIENDA MZNA 153                             SAN LUIS POTOSÍ                1977-05-18 C-08461         P-07461
+8462        FRANCISCO SOTO CAMBIL                              BULEVARD DE LA HACIENDA MZNA 153                             SAN LUIS POTOSÍ                1977-05-18 C-08461         P-09961
+8468        ISAÍAS RAMOS PEÑA                                  JAMES MONROE MZNA 428                                        CAMPECHE                       1963-04-05 C-08467         P-09967
+8471        HUGO PÉREZ SÁEZ                                    MIERES MANZANA 549                                           COAHUILA                       1966-01-12 C-08470         P-07470
+8475        ADÓN LOZANO ROMÁN                                  AV. PALMIRA NO. 46                                           QUERÉTARO                      1985-01-21 C-10974         P-07474
+8481        EDUARDO MOYA NÚÑEZ                                 CDA QUINTANA ROO NUM. 718                                    YUCATÁN                        1966-09-16 C-08480         P-07480
+8482        ANATOLIO CABALLERO MOYA                            MAR DE LAS TEMPESTADES NÚMERO 300                            DISTRITO FEDERAL               1957-03-20 C-10981         P-09981
+8485        AQUILES CASTRO GUTIÉRREZ                           AV. QUERETARO NO. 486                                        MICHOACÁN                      1979-10-27 C-10984         P-09984
+8492        ADELAIDA CANO CALVO                                2DA CERRADA DE LOMA LINDA NUM. 406                           DISTRITO FEDERAL               1991-04-20 C-10991         P-07491
+8496        GUILLERMO ESTEBAN DOMÍNGUEZ                        LOMBARDOS NUM. 486                                           QUINTANA ROO                   1993-11-11 C-08495         P-07495
+8508        CARMEN VARGAS SERRANO                              AGUILAS MANZANA 448                                          YUCATÁN                        1960-06-23 C-08507         P-07507
+8508        CARMEN VARGAS SERRANO                              AGUILAS MANZANA 448                                          YUCATÁN                        1960-06-23 C-11007         P-07507
+8513        OSCAR MORENO VEGA                                  EJIDO MAGDALENA PETLACALCO MZNA 89                           MICHOACÁN                      1974-11-05 C-08512         P-07512
+8522        FELICIANO HERNÁNDEZ HIDALGO                        INDEPENDENCIA NUM. 348                                       SAN LUIS POTOSÍ                1984-11-11 C-11021         P-07521
+8542        NURIA REYES LÓPEZ                                  HEMICICLO A JUAREZ MANZANA 70                                DURANGO                        1991-11-18 C-08541         P-07541
+8553        GLORIA DÍAZ MÁRQUEZ                                BOLIVAR MZNA 8                                               JALISCO                        1988-05-18 C-08552         P-07552
+8602        VICENTA RUBIO RODRÍGUEZ                            AV. SAN PABLO XALPA MZNA 544                                 TLAXCALA                       1986-10-21 C-08601         P-07601
+8612        NICODEMO ÁLVAREZ CAMBIL                            ZEMPOALTEPETL MANZANA 216                                    GUERRERO                       1995-10-04 C-08611         P-07611
+8627        LAURA SERRANO MUÑOZ                                PRIVADA LIMONES NUM. 296                                     JALISCO                        1971-01-25 C-11126         P-07626
+8630        RAMÓN RODRÍGUEZ MORENO                             PORTO ALEGRE MANZANA 48                                      CHIAPAS                        1960-07-25 C-08629         P-07629
+8655        RAFAEL MONTORO GONZÁLEZ                            CIRCUITO PLAZA DE LA PAJA NUM. 420                           PUEBLA                         1987-09-25 C-08654         P-07654
+8684        ALICIA CASTRO RUIZ                                 VERIN NÚMERO 155                                             NAYARIT                        1985-09-28 C-08683         P-07683
+8694        IRENEO PASTOR VIDAL                                JORGE WASHINGTON MANZANA 468                                 JALISCO                        1957-08-04 C-08693         P-07693
+8702        REINALDO CABRERA ALONSO                            CHIAPANECAS NO. 564                                          NUEVO LEÓN                     1954-08-19 C-08701         P-07701
+8704        ESTER LOZANO CRUZ                                  HEMICICLO A JUAREZ MZNA 270                                  TLAXCALA                       1962-07-01 C-11203         P-07703
+8707        FÉLIX CABALLERO LEÓN                               16 DE SEPTIEMBRE MANZANA 180                                 CHIHUAHUA                      1985-02-10 C-08706         P-07706
+8756        VÍCTOR DÍAZ ESTEBAN                                GALEANA NO. 269                                              TABASCO                        1976-07-21 C-11255         P-07755
+8764        MARIO PASCUAL MORALES                              VALLE DE LOS TOLTECAS NUM. 228                               SINALOA                        1976-07-11 C-08763         P-07763
+8771        VICENTE CASTRO MÁRQUEZ                             VIVEROS DE ASIS MANZANA 175                                  VERACRUZ                       1968-12-08 C-11270         P-07770
+8801        CAMILO CAMPOS NIETO                                HACIENDA DE PEÑUELAS NÚMERO 182                              DURANGO                        1954-06-15 C-11300         P-07800
+8808        TEÓFILA MORENO MONTORO                             4A. CERRADA DE PEDRO MA. ANAYA NO. 521                       QUINTANA ROO                   1955-05-03 C-11307         P-07807
+8810        BELTRÁN GÓMEZ IBÁÑEZ                               CERRO DE LOS GAVILANES NÚMERO 761                            ESTADO DE MÉXICO               1982-06-27 C-08809         P-07809
+8848        ACACIO GÓMEZ CRUZ                                  C. JOSE FRANCISCO RUIZ MASSIEU MZNA 260                      DURANGO                        1992-07-11 C-11347         P-07847
+8862        CALIXTO RAMOS FLORES                               AV MEXICO NUM. 800                                           QUERÉTARO                      1967-07-01 C-08861         P-07861
+8869        RAQUEL PASCUAL SOLER                               GALEANA MZNA 601                                             MICHOACÁN                      1961-10-01 C-11368         P-07868
+8876        ALBINA REYES MOLINA                                BOULEVARD MALINTZI MZNA 778                                  CHIHUAHUA                      1966-05-25 C-08875         P-07875
+8882        BONIFACIO MARTÍN MOLINA                            FRESNOS NO. 181                                              QUINTANA ROO                   1970-01-01 C-11381         P-07881
+8895        XAVIER SOLER HERRERO                               TABASCO NUM. 630                                             CHIAPAS                        1957-04-20 C-11394         P-07894
+8899        ANNA CASTRO SOTO                                   MARIA ELENA SANDOVAL MZNA 492                                HIDALGO                        1982-06-07 C-11398         P-07898
+8922        LUCÍA GIMÉNEZ IBÁÑEZ                               CTO. LAZARO CARDENAS MANZANA 664                             CHIHUAHUA                      1954-01-25 C-11421         P-07921
+8941        GUILLERMO BRAVO SERRANO                            PIEDRAS NEGRAS NÚMERO 296                                    HIDALGO                        1963-10-13 C-11440         P-07940
+8943        CLEOFÁS LÓPEZ BLESA                                PORTO ALEGRE NUM. 22                                         CHIAPAS                        1957-08-28 C-11442         P-07942
+8945        SANDRA NÚÑEZ DÍEZ                                  25 DE FEBRERO DE 1861 NO. 743                                NAYARIT                        1971-12-05 C-11444         P-07944
+8949        FERMÍN REY CASTRO                                  MUNICIPIO LIBRE NÚMERO 645                                   ZACATECAS                      1954-09-12 C-08948         P-07948
+8952        LINO CAMBIL MÁRQUEZ                                PROVIDENCIA MZNA 671                                         BAJA CALIFORNIA                1965-05-20 C-08951         P-07951
+8954        REBECA IBÁÑEZ GIL                                  CDA QUINTANA ROO MANZANA 531                                 VERACRUZ                       1979-09-04 C-11453         P-07953
+8955        FERMÍN RAMÍREZ PEÑA                                LAS FLORES MANZANA 369                                       NUEVO LEÓN                     1960-10-22 C-08954         P-07954
+8963        RIGOBERTO BLESA RUBIO                              MAR ROJO NÚMERO 621                                          AGUASCALIENTES                 1990-07-09 C-08962         P-07962
+8966        TRINIDAD ORTEGA IBÁÑEZ                             ATLETAS MANZANA 534                                          TABASCO                        1995-01-27 C-08965         P-07965
+8998        SOLEDAD SÁEZ LORENZO                               PROL AHUEJOTES MZNA 460                                      CAMPECHE                       1984-10-20 C-11497         P-07997
+9005        FRANCESC GIL FERRER                                AND LAS LEYES DE REFORMA NO. 139                             SAN LUIS POTOSÍ                1975-07-16 C-11504         P-08004
+9020        DÁMASO CABRERA GARRIDO                             CDA. DE FRANCISCO CASTAÑEDA NO. 511                          HIDALGO                        1974-10-09 C-09019         P-08019
+9021        CELIA ORTEGA CARMONA                               PABLO ALVARADO MZNA 369                                      ZACATECAS                      1958-09-01 C-09020         P-08020
+9027        DÁMASO CARRASCO MEDINA                             LAS FLORES MZNA 646                                          DISTRITO FEDERAL               1995-04-06 C-11526         P-08026
+9055        FÉLIX PEÑA JIMÉNEZ                                 BLVD. ADOLFO LOPEZ MATEOS NO. 572                            CHIAPAS                        1961-02-03 C-09054         P-08054
+9070        CELINA VICENTE PASTOR                              PARAJE MANZANA 561                                           DURANGO                        1985-02-06 C-11569         P-08069
+9139        BERNARDO HIDALGO SÁNCHEZ                           AGUAJE NÚMERO 265                                            SONORA                         1983-06-02 C-11638         P-08138
+9165        ÁNGELA VICENTE GIMÉNEZ                             BARRIO DE SAN JOSÉ MANZANA 125                               CHIHUAHUA                      1991-04-24 C-09164         P-08164
+9165        ÁNGELA VICENTE GIMÉNEZ                             BARRIO DE SAN JOSÉ MANZANA 125                               CHIHUAHUA                      1991-04-24 C-11664         P-08164
+9189        FÁTIMA MONTORO MONTERO                             FERNANDO ROMAN LUGO MANZANA 462                              AGUASCALIENTES                 1981-10-23 C-11688         P-08188
+9194        SIMÓN LORENZO GONZÁLEZ                             HUERTAS NO. 140                                              AGUASCALIENTES                 1955-10-18 C-09193         P-08193
+9216        DIMAS CANO ROMERO                                  CALLE GARDENIA NÚMERO 131                                    CAMPECHE                       1981-12-09 C-11715         P-08215
+9239        ISMAEL MOLINA CALVO                                CERRO DE ZEMPOALA NÚMERO 475                                 BAJA CALIFORNIA                1959-01-24 C-11738         P-08238
+9253        TEODORA DÍAZ HERNÁNDEZ                             ANDADOR DE LA ESMERALDA NÚMERO 341                           SONORA                         1964-04-20 C-09252         P-08252
+9254        ALBINA TORRES RUIZ                                 CAMPO FLORIDO NUM. 437                                       DURANGO                        1982-03-26 C-11753         P-08253
+9305        ÓSCAR ARIAS RUBIO                                  PARAJE NUM. 110                                              QUINTANA ROO                   1955-09-21 C-09304         P-08304
+9313        OTO LÓPEZ REY                                      FRANCISCO SARABIA MANZANA 735                                HIDALGO                        1955-05-24 C-11812         P-08312
+9346        RAIMUNDO GONZÁLEZ CAMBIL                           TLACOTAL MANZANA 434                                         JALISCO                        1986-08-14 C-09345         P-08345
+9346        RAIMUNDO GONZÁLEZ CAMBIL                           TLACOTAL MANZANA 434                                         JALISCO                        1986-08-14 C-11845         P-08345
+9357        EFRÉN RUIZ FERRER                                  BLVD. ADOLFO LOPEZ MATEOS NÚMERO 655                         ZACATECAS                      1987-01-14 C-09356         P-08356
+9357        EFRÉN RUIZ FERRER                                  BLVD. ADOLFO LOPEZ MATEOS NÚMERO 655                         ZACATECAS                      1987-01-14 C-11856         P-08356
+9363        ARISTIDES PÉREZ HERNÁNDEZ                          CALLE FRANCISCO I. MADERO NÚMERO 454                         SONORA                         1992-12-21 C-11862         P-08362
+9365        CRISTÓBAL GALLEGO MÁRQUEZ                          ROSAS MANZANA 734                                            PUEBLA                         1993-10-07 C-11864         P-08364
+9398        ONÉSIMO LORENZO SOTO                               CALZADA DE LA ROMERIA MANZANA 224                            TLAXCALA                       1962-11-15 C-11897         P-08397
+9438        YOLANDA LÓPEZ MONTERO                              AMORES MZNA 66                                               CHIAPAS                        1967-01-12 C-11937         P-08437
+9439        JULIA MONTORO SANZ                                 REPUBLICA DE CHILE NUM. 150                                  SONORA                         1993-01-24 C-09438         P-08438
+9439        JULIA MONTORO SANZ                                 REPUBLICA DE CHILE NUM. 150                                  SONORA                         1993-01-24 C-11938         P-08438
+9445        ANIANO IGLESIAS GARRIDO                            CALLE 4 NUM. 228                                             SONORA                         1971-07-11 C-09444         P-08444
+9445        ANIANO IGLESIAS GARRIDO                            CALLE 4 NUM. 228                                             SONORA                         1971-07-11 C-11944         P-08444
+9485        DARIO CANO DELGADO                                 RICARDO FLORES MAGON MANZANA 486                             TAMAULIPAS                     1967-08-14 C-09484         P-08484
+9488        AGUSTÍN SANTIAGO CALVO                             COPAL NUM. 40                                                TAMAULIPAS                     1992-12-26 C-11987         P-08487
+9495        GREGORIO JIMÉNEZ FUENTES                           LAS ROSAS NÚMERO 459                                         QUERÉTARO                      1987-05-13 C-09494         P-08494
+
+(285 rows affected)
+
+
+Completion time: 2020-07-26T00:17:19.6593301-04:00

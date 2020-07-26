@@ -1,0 +1,189 @@
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 1
+select DISTINCT p.numprestamo, p.importe, p.fecha, p.numsucursal, s.nombresucursal
+from prestamo as p, sucursal as s
+where p.numsucursal = s.numsucursal AND s.nombresucursal like 'MERIDA'
+
+--Universitario:Briyan Julio Torrez Vargas
+--Ejercicio 2
+select cliente.idcliente, cliente.nombrecliente
+from cliente
+where cliente.estado like 'OAXACA'
+
+--Universitario:Briyan Julio Torrez Vargas
+--Ejercicio 3
+select distinct c.nombrecliente
+from (
+select distinct ctacliente.idcliente
+from ctacliente
+UNION
+select distinct prestatario.idcliente
+from prestatario) as t, cliente as c
+where c.idcliente = t.idcliente
+
+--Universitario:Briyan Julio Torrez Vargas
+--Ejercicio 4
+select distinct *
+from(
+select ctacliente.idcliente
+from ctacliente
+EXCEPT
+select prestatario.idcliente
+from prestatario	) as t, cliente
+where t.idcliente = cliente.idcliente
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 5
+select c.idcliente, c.nombrecliente, c.direccion, c.estado, c.nacimiento
+from (select prestatario.idcliente
+from prestatario
+UNION
+select ctacliente.idcliente
+from ctacliente) as t, cliente as c
+where t.idcliente = c.idcliente
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 6
+select DISTINCT c.nombrecliente
+from cliente as c, prestatario as p1, prestamo as p2, sucursal as s
+where c.idcliente = p1.idcliente AND p1.numprestamo = p2.numprestamo AND 
+		p2.numsucursal = s.numsucursal AND s.nombresucursal like 'TULUM'
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 7
+select distinct c.nombrecliente
+from cliente as c, prestatario as p1, prestamo as p2
+where c.idcliente = p1.idcliente AND p1.numprestamo = p2.numprestamo
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 8
+select distinct s.nombresucursal
+from cliente as c, ctacliente as cc, cuenta as cu, sucursal as s
+where c.idcliente = cc.idcliente AND cc.numcta = cu.numcta AND cu.numsucursal = s.numsucursal AND c.estado = 'CHIAPAS'
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 9
+select distinct c.idcliente, c.nombrecliente, c.direccion, c.estado, c.nacimiento, cc.numcta, p.numprestamo
+from cliente as c, ctacliente as cc, prestatario as p
+where c.idcliente = cc.idcliente AND c.idcliente = p.idcliente
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 10
+select distinct c.nombrecliente
+from cliente c, ctacliente cc, cuenta cu, sucursal s
+where c.idcliente = cc.idcliente AND cc.numcta = cu.numcta AND cu.numsucursal = s.numsucursal
+AND s.estado = 'YUCATÁN' AND c.estado = 'CAMPECHE'
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 11
+select distinct c.nombrecliente
+from cliente c, prestatario p, prestamo p1
+where (c.idcliente = p.idcliente AND p.numprestamo = p1.numprestamo) AND p1.importe > 60000.00
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 12
+select distinct cliente.nombrecliente
+from( select distinct cliente.idcliente from cliente EXCEPT select prestatario.idcliente from prestatario) as t
+, ctacliente, cuenta, cliente
+where t.idcliente = ctacliente.idcliente AND ctacliente.numcta = cuenta.numcta AND t.idcliente = cliente.idcliente
+AND cuenta.saldo < 5000.00
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 13
+select c.numsucursal, AVG(c.saldo) promedio
+from cuenta as c, sucursal as s
+where c.numsucursal = s.numsucursal
+group by c.numsucursal
+
+-- Universitario: Briyan Julio Torrez Vargas
+-- Ejercicio 14
+select MAX(saldo_promedio) saldo_promedio_maximo
+from (select c.numsucursal, AVG(c.saldo) saldo_promedio
+from cuenta as c, sucursal as s
+where c.numsucursal = s.numsucursal
+group by c.numsucursal) as x
+
+suponiendo que el inciso a no tiene nada que ver con el ejercicio 14
+a)
+1.
+
+select cliente.idcliente, cliente.nombrecliente, ctacliente.numcta
+from (select cliente.idcliente from cliente EXCEPT select cliente.idcliente from cliente where cliente.nombrecliente = 'ELÍAS BRAVO SANTOS') t
+, cliente, ctacliente
+where t.idcliente = cliente.idcliente AND cliente.idcliente = ctacliente.idcliente
+--PODEMOS VER QUE LA CUENTA DE ELIAS BRAVO SANTOS SE ELIMINÓ DE LA CONSULTA
+select *
+from cliente
+where cliente.nombrecliente = 'ELÍAS BRAVO SANTOS'
+2.
+
+select c.idcliente, c.nombrecliente, t.numprestamo
+from (
+select prestatario.numprestamo from prestatario
+EXCEPT 
+select prestamo.numprestamo from prestamo where prestamo.importe > 5000.00 AND prestamo.importe < 20000.00) as t
+, cliente as c, prestatario as p
+where t.numprestamo = p.numprestamo AND p.idcliente = c.idcliente
+
+3.
+
+--Universitario:Briyan julio Torrez Vargas
+select c.idcliente, c.nombrecliente, c.estado, cc.numcta
+from(
+select cliente.idcliente, cliente.estado from cliente
+EXCEPT
+select cliente.idcliente, cliente.estado from cliente where cliente.estado = 'CAMPECHE') as t, cliente as c, ctacliente as cc
+where t.idcliente = c.idcliente AND t.idcliente = cc.idcliente
+
+b)
+1.
+
+--Universitario:Briyan julio Torrez Vargas
+select cliente.nombrecliente, cuenta.saldo, cuenta.numcta, sucursal.nombresucursal, sucursal.estado from cliente, ctacliente, cuenta, sucursal
+where cliente.idcliente = ctacliente.idcliente AND ctacliente.numcta = cuenta.numcta AND cuenta.numsucursal = sucursal.numsucursal
+UNION
+(select 'ELÍAS BRAVO SANTOS' nombre, 30000.00 saldo, 'C-09111' cuenta, 'ACAPULCO' sucursal, 'GUERRERO' estado)
+
+2.
+
+--Universitario:Briyan julio Torrez Vargas
+select ctacliente.idcliente, ctacliente.numcta, cuenta.saldo, sucursal.nombresucursal
+from ctacliente, cuenta, sucursal
+where ctacliente.numcta = cuenta.numcta AND cuenta.numsucursal = sucursal.numsucursal
+UNION
+select cliente.idcliente, prestatario.numprestamo, 15000.00 saldo, sucursal.nombresucursal
+from cliente, prestatario, prestamo, sucursal
+where cliente.idcliente = prestatario.idcliente AND prestatario.numprestamo = prestamo.numprestamo AND prestamo.numsucursal = sucursal.numsucursal
+AND sucursal.nombresucursal = 'TONALA'
+
+c)
+1.
+
+--Universitario:Briyan julio Torrez Vargas
+select cliente.idcliente, cliente.nombrecliente, (cuenta.saldo-((cuenta.saldo*10)/100)) saldo, cuenta.numcta
+from cliente, ctacliente, cuenta
+where cliente.idcliente = ctacliente.idcliente AND ctacliente.numcta = cuenta.numcta AND cuenta.numcta = 'C-00002'
+UNION
+select cliente.idcliente, cliente.nombrecliente, cuenta.saldo, cuenta.numcta
+from cliente, ctacliente, cuenta
+where cliente.idcliente = ctacliente.idcliente AND ctacliente.numcta = cuenta.numcta AND cuenta.numcta != 'C-00002'
+
+2.
+
+--Universitario:Briyan julio Torrez Vargas
+select cliente.idcliente, cliente.nombrecliente, (cuenta.saldo+((cuenta.saldo*5)/100)) saldo, cuenta.numcta
+from cliente, ctacliente, cuenta
+where cliente.idcliente = ctacliente.idcliente AND ctacliente.numcta = cuenta.numcta
+
+3.
+
+--Universitario:Briyan julio Torrez Vargas
+select cliente.idcliente, cliente.nombrecliente, (cuenta.saldo-((cuenta.saldo*6)/100)) saldo, cuenta.numcta
+from cliente, ctacliente, cuenta
+where cliente.idcliente = ctacliente.idcliente AND ctacliente.numcta = cuenta.numcta AND cuenta.saldo > 100000.00
+UNION
+select cliente.idcliente, cliente.nombrecliente, (cuenta.saldo-((cuenta.saldo*5)/100)) saldo, cuenta.numcta
+from cliente, ctacliente, cuenta
+where cliente.idcliente = ctacliente.idcliente AND ctacliente.numcta = cuenta.numcta AND cuenta.saldo < 100000.00
+
+
